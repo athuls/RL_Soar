@@ -70,7 +70,7 @@ int main(int argc, char *argv[]){
 	}
 	
 	string res_file="static_stats_temp.txt";
-	string rewardsFile="/home/athuls89/Desktop/RL_SOAR/Fall2011/temp_results/cumRewardsFile";
+	string rewardsFile="/home/athuls89/Desktop/RL_Soar/Fall2011/temp_results/cumRewardsFile";
 	
 	Agent *agent=new Agent();		
 	agent->readConfig(problemInstance);
@@ -129,25 +129,12 @@ int main(int argc, char *argv[]){
 				
 				episode->runEpisodes(lr, er);	//provide the learning and exploration rates for the current iteration
 
-				//Commented out because we are evaluating the agent when it is learning
-				//episode->evaluateQValues();
-
-				currentStats=episode->performanceStats;
-				if(currentStats>maxStats)
-				{
-					maxStats=currentStats;
-					bestlr=lr;
-					bester=er;
-					best_param_stats=episode->best_static_param;
-				}
 				flagFirst=true;
-				cout<<"the learning rate is "<<lr<<" and the exploration rate is "<<er<<" and mean is "<<currentStats.mean<<" variance is "<<currentStats.std_dev<<endl;
 		}
 		}
 		delete(agent);
 		delete(env);
 		delete(episode);
-		cout<<"the best learning rate is "<<bestlr<<" and the best exploration is "<<bester<<" and "<<maxStats.mean<<" "<<maxStats.std_dev<<endl; 
 		
 	}
 	///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
