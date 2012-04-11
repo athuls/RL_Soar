@@ -1,0 +1,5815 @@
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+Completed creating file
+8
+21
+18
+23
+22
+24
+13
+19
+16
+21
+6
+11
+17
+15
+11
+18
+2
+14
+20
+12
+16
+23
+1
+3
+10
+3
+12
+6
+13
+8
+7
+4
+2
+7
+1
+6
+6
+9
+5
+0
+20
+10
+18
+22
+8
+17
+0
+12
+14
+12
+5
+9
+19
+24
+9
+22
+3
+11
+14
+16
+1
+23
+18
+17
+15
+7
+11
+21
+5
+16
+13
+19
+10
+2
+4
+8
+13
+7
+17
+15
+13 8 8 -0.1
+22 21 21 -0.1
+23 18 18 -0.1
+22 23 23 -0.1
+17 22 22 -0.1
+19 24 24 100
+8 13 13 -0.1
+24 19 19 -0.1
+21 16 16 -0.1
+20 21 21 -0.1
+11 6 6 -0.1
+16 11 11 -0.1
+16 17 17 -10
+16 15 15 -0.1
+6 11 11 -0.1
+13 18 18 -0.1
+7 2 2 -0.1
+13 14 14 -0.1
+15 20 20 -10
+13 12 12 -0.1
+11 16 16 -0.1
+18 23 23 -0.1
+2 1 1 -0.1
+8 3 3 -10
+11 10 10 -10
+2 3 3 -10
+11 12 12 -0.1
+7 6 6 -0.1
+14 13 13 -0.1
+7 8 8 -0.1
+2 7 7 -0.1
+9 4 4 -0.1
+1 2 2 -0.1
+8 7 7 -0.1
+0 1 1 -0.1
+5 6 6 -0.1
+1 6 6 -0.1
+8 9 9 -0.1
+0 5 5 -0.1
+5 0 0 -0.1
+21 20 20 -10
+5 10 10 -10
+19 18 18 -0.1
+21 22 22 -0.1
+9 8 8 -0.1
+22 17 17 -10
+1 0 0 -0.1
+7 12 12 -0.1
+19 14 14 -0.1
+17 12 12 -0.1
+10 5 5 -0.1
+4 9 9 -0.1
+14 19 19 -0.1
+23 24 24 100
+14 9 9 -0.1
+23 22 22 -0.1
+4 3 3 -10
+10 11 11 -0.1
+9 14 14 -0.1
+17 16 16 -0.1
+6 1 1 -0.1
+24 23 23 -0.1
+17 18 18 -0.1
+12 17 17 -10
+20 15 15 -0.1
+6 7 7 -0.1
+12 11 11 -0.1
+16 21 21 -0.1
+6 5 5 -0.1
+15 16 16 -0.1
+12 13 13 -0.1
+18 19 19 -0.1
+15 10 10 -10
+3 2 2 -0.1
+3 4 4 -0.1
+3 8 8 -0.1
+18 13 13 -0.1
+12 7 7 -0.1
+18 17 17 -10
+10 15 15 -0.1
+Goal state is 24 0
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 22
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.871667
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.871667
+I am in the steps of the episode 24 22
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 1
+Alpha value is 0.871667
+I am in the steps of the episode 24 2
+Alpha value is 0.871667
+I am in the steps of the episode 24 3
+Alpha value is 0.871667
+I am in the steps of the episode 24 2
+Alpha value is 0.871667
+I am in the steps of the episode 24 3
+Alpha value is 0.871667
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 9
+Alpha value is 0.871667
+I am in the steps of the episode 24 14
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 23
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 19
+Alpha value is 0.871667
+I am in the steps of the episode 24 24
+Alpha value is 0.871667
+The exploration rate is 0.483667
+released lock
+Goal state is 24 1
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.871667
+I am in the steps of the episode 24 0
+Alpha value is 0.871667
+I am in the steps of the episode 24 5
+Alpha value is 0.871667
+I am in the steps of the episode 24 0
+Alpha value is 0.871667
+I am in the steps of the episode 24 1
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 7
+Alpha value is 0.871667
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 9
+Alpha value is 0.871667
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 9
+Alpha value is 0.9
+I am in the steps of the episode 24 14
+Alpha value is 0.871667
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 24
+Alpha value is 0.871667
+The exploration rate is 0.467333
+released lock
+Goal state is 24 2
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.871667
+The exploration rate is 0.451
+released lock
+Goal state is 24 3
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.871667
+I am in the steps of the episode 24 7
+Alpha value is 0.871667
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 7
+Alpha value is 0.871667
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 22
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.9
+I am in the steps of the episode 24 22
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.871667
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 21
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.9
+I am in the steps of the episode 24 17
+Alpha value is 0.9
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 19
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 14
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.871667
+The exploration rate is 0.434667
+released lock
+Goal state is 24 4
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.843333
+I am in the steps of the episode 24 22
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.815
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.843333
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.9
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.9
+I am in the steps of the episode 24 21
+Alpha value is 0.871667
+I am in the steps of the episode 24 22
+Alpha value is 0.843333
+I am in the steps of the episode 24 17
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 17
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.871667
+I am in the steps of the episode 24 17
+Alpha value is 0.815
+I am in the steps of the episode 24 12
+Alpha value is 0.843333
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 3
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.871667
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.9
+I am in the steps of the episode 24 3
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 3
+Alpha value is 0.9
+I am in the steps of the episode 24 4
+Alpha value is 0.871667
+I am in the steps of the episode 24 9
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.9
+I am in the steps of the episode 24 3
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 17
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.843333
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.9
+I am in the steps of the episode 24 9
+Alpha value is 0.9
+I am in the steps of the episode 24 14
+Alpha value is 0.871667
+I am in the steps of the episode 24 9
+Alpha value is 0.9
+I am in the steps of the episode 24 14
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 14
+Alpha value is 0.9
+I am in the steps of the episode 24 19
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 17
+Alpha value is 0.758333
+The exploration rate is 0.451
+released lock
+Goal state is 24 5
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.9
+I am in the steps of the episode 24 15
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.815
+I am in the steps of the episode 24 15
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.786667
+I am in the steps of the episode 24 15
+Alpha value is 0.9
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 15
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.758333
+I am in the steps of the episode 24 21
+Alpha value is 0.815
+I am in the steps of the episode 24 22
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.871667
+I am in the steps of the episode 24 22
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.434667
+released lock
+Goal state is 24 6
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.758333
+I am in the steps of the episode 24 21
+Alpha value is 0.815
+I am in the steps of the episode 24 22
+Alpha value is 0.843333
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.418333
+released lock
+Goal state is 24 7
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 15
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.73
+I am in the steps of the episode 24 21
+Alpha value is 0.815
+I am in the steps of the episode 24 22
+Alpha value is 0.871667
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.402
+released lock
+Goal state is 24 8
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.843333
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 19
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 14
+Alpha value is 0.9
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 14
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 14
+Alpha value is 0.843333
+I am in the steps of the episode 24 9
+Alpha value is 0.871667
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 14
+Alpha value is 0.843333
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 9
+Alpha value is 0.843333
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 9
+Alpha value is 0.815
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 13
+Alpha value is 0.843333
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 9
+Alpha value is 0.786667
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.385667
+released lock
+Goal state is 24 9
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.815
+I am in the steps of the episode 24 1
+Alpha value is 0.871667
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.843333
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.9
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.871667
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.843333
+I am in the steps of the episode 24 1
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.701667
+I am in the steps of the episode 24 13
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.369333
+released lock
+Goal state is 24 10
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 10
+Alpha value is 0.843333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.73
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 10
+Alpha value is 0.701667
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.673333
+I am in the steps of the episode 24 21
+Alpha value is 0.786667
+I am in the steps of the episode 24 20
+Alpha value is 0.9
+I am in the steps of the episode 24 21
+Alpha value is 0.758333
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.353
+released lock
+Goal state is 24 11
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.843333
+I am in the steps of the episode 24 10
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.645
+I am in the steps of the episode 24 21
+Alpha value is 0.786667
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 21
+Alpha value is 0.758333
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.336667
+released lock
+Goal state is 24 12
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 0
+Alpha value is 0.871667
+I am in the steps of the episode 24 5
+Alpha value is 0.815
+I am in the steps of the episode 24 10
+Alpha value is 0.815
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.616667
+I am in the steps of the episode 24 21
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.588333
+I am in the steps of the episode 24 21
+Alpha value is 0.786667
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 17
+Alpha value is 0.73
+I am in the steps of the episode 24 18
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.320333
+released lock
+Goal state is 24 13
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.56
+I am in the steps of the episode 24 21
+Alpha value is 0.786667
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.9
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.304
+released lock
+Goal state is 24 14
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.758333
+I am in the steps of the episode 24 6
+Alpha value is 0.843333
+I am in the steps of the episode 24 1
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.815
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.588333
+I am in the steps of the episode 24 21
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.616667
+I am in the steps of the episode 24 21
+Alpha value is 0.758333
+I am in the steps of the episode 24 22
+Alpha value is 0.9
+I am in the steps of the episode 24 21
+Alpha value is 0.871667
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.645
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.616667
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.588333
+I am in the steps of the episode 24 15
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.616667
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.588333
+I am in the steps of the episode 24 11
+Alpha value is 0.9
+I am in the steps of the episode 24 16
+Alpha value is 0.56
+I am in the steps of the episode 24 21
+Alpha value is 0.701667
+I am in the steps of the episode 24 20
+Alpha value is 0.871667
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.531667
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 15
+Alpha value is 0.871667
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 17
+Alpha value is 0.73
+I am in the steps of the episode 24 22
+Alpha value is 0.786667
+I am in the steps of the episode 24 23
+Alpha value is 0.871667
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.287667
+released lock
+Goal state is 24 15
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.815
+I am in the steps of the episode 24 6
+Alpha value is 0.786667
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 15
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 10
+Alpha value is 0.786667
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 15
+Alpha value is 0.815
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 15
+Alpha value is 0.673333
+I am in the steps of the episode 24 20
+Alpha value is 0.503333
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.503333
+I am in the steps of the episode 24 15
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.758333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.73
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.701667
+I am in the steps of the episode 24 1
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.673333
+I am in the steps of the episode 24 1
+Alpha value is 0.815
+I am in the steps of the episode 24 6
+Alpha value is 0.673333
+I am in the steps of the episode 24 1
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.673333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.673333
+I am in the steps of the episode 24 1
+Alpha value is 0.758333
+I am in the steps of the episode 24 6
+Alpha value is 0.673333
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 16
+Alpha value is 0.815
+I am in the steps of the episode 24 15
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.446667
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 12
+Alpha value is 0.475
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 8
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 14
+Alpha value is 0.815
+I am in the steps of the episode 24 19
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.786667
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.271333
+released lock
+Goal state is 24 16
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.73
+I am in the steps of the episode 24 6
+Alpha value is 0.673333
+I am in the steps of the episode 24 11
+Alpha value is 0.815
+I am in the steps of the episode 24 16
+Alpha value is 0.446667
+I am in the steps of the episode 24 11
+Alpha value is 0.786667
+I am in the steps of the episode 24 10
+Alpha value is 0.786667
+I am in the steps of the episode 24 11
+Alpha value is 0.758333
+I am in the steps of the episode 24 10
+Alpha value is 0.418333
+I am in the steps of the episode 24 11
+Alpha value is 0.758333
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 8
+Alpha value is 0.843333
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 8
+Alpha value is 0.815
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.255
+released lock
+Goal state is 24 17
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.73
+I am in the steps of the episode 24 6
+Alpha value is 0.645
+I am in the steps of the episode 24 11
+Alpha value is 0.73
+I am in the steps of the episode 24 12
+Alpha value is 0.843333
+I am in the steps of the episode 24 13
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 22
+Alpha value is 0.843333
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.238667
+released lock
+Goal state is 24 18
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.73
+I am in the steps of the episode 24 6
+Alpha value is 0.616667
+I am in the steps of the episode 24 11
+Alpha value is 0.73
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.222333
+released lock
+Goal state is 24 19
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.73
+I am in the steps of the episode 24 6
+Alpha value is 0.588333
+I am in the steps of the episode 24 11
+Alpha value is 0.701667
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.206
+released lock
+Goal state is 24 20
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.73
+I am in the steps of the episode 24 6
+Alpha value is 0.56
+I am in the steps of the episode 24 1
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.56
+I am in the steps of the episode 24 11
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.56
+I am in the steps of the episode 24 11
+Alpha value is 0.73
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.189667
+released lock
+Goal state is 24 21
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.673333
+I am in the steps of the episode 24 0
+Alpha value is 0.531667
+I am in the steps of the episode 24 5
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.9
+I am in the steps of the episode 24 11
+Alpha value is 0.758333
+I am in the steps of the episode 24 10
+Alpha value is 0.758333
+I am in the steps of the episode 24 11
+Alpha value is 0.786667
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.843333
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.9
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.173333
+released lock
+Goal state is 24 22
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.645
+I am in the steps of the episode 24 6
+Alpha value is 0.531667
+I am in the steps of the episode 24 11
+Alpha value is 0.815
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 12
+Alpha value is 0.871667
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.786667
+I am in the steps of the episode 24 19
+Alpha value is 0.871667
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.157
+released lock
+Goal state is 24 23
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.673333
+I am in the steps of the episode 24 6
+Alpha value is 0.56
+I am in the steps of the episode 24 11
+Alpha value is 0.786667
+I am in the steps of the episode 24 12
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.786667
+I am in the steps of the episode 24 23
+Alpha value is 0.843333
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.140667
+released lock
+Goal state is 24 24
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.531667
+I am in the steps of the episode 24 11
+Alpha value is 0.815
+I am in the steps of the episode 24 16
+Alpha value is 0.871667
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.56
+I am in the steps of the episode 24 11
+Alpha value is 0.815
+I am in the steps of the episode 24 6
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.815
+I am in the steps of the episode 24 6
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.815
+I am in the steps of the episode 24 6
+Alpha value is 0.503333
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.73
+I am in the steps of the episode 24 6
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.673333
+I am in the steps of the episode 24 6
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.645
+I am in the steps of the episode 24 6
+Alpha value is 0.475
+I am in the steps of the episode 24 5
+Alpha value is 0.871667
+I am in the steps of the episode 24 0
+Alpha value is 0.871667
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 7
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 5
+Alpha value is 0.843333
+I am in the steps of the episode 24 0
+Alpha value is 0.843333
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 5
+Alpha value is 0.815
+I am in the steps of the episode 24 0
+Alpha value is 0.815
+I am in the steps of the episode 24 5
+Alpha value is 0.616667
+I am in the steps of the episode 24 0
+Alpha value is 0.786667
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 2
+Alpha value is 0.446667
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 0
+Alpha value is 0.446667
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.446667
+I am in the steps of the episode 24 11
+Alpha value is 0.786667
+I am in the steps of the episode 24 12
+Alpha value is 0.843333
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 12
+Alpha value is 0.758333
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.758333
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.124333
+released lock
+Goal state is 24 25
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.418333
+I am in the steps of the episode 24 11
+Alpha value is 0.758333
+I am in the steps of the episode 24 12
+Alpha value is 0.815
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.758333
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.108
+released lock
+Goal state is 24 26
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.786667
+I am in the steps of the episode 24 17
+Alpha value is 0.73
+I am in the steps of the episode 24 18
+Alpha value is 0.758333
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.758333
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.843333
+The exploration rate is 0.0916667
+released lock
+Goal state is 24 27
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.73
+I am in the steps of the episode 24 12
+Alpha value is 0.758333
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.786667
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.815
+The exploration rate is 0.0753333
+released lock
+Goal state is 24 28
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.786667
+I am in the steps of the episode 24 0
+Alpha value is 0.758333
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.361667
+I am in the steps of the episode 24 11
+Alpha value is 0.701667
+I am in the steps of the episode 24 12
+Alpha value is 0.73
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.786667
+The exploration rate is 0.059
+released lock
+Goal state is 24 29
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.56
+I am in the steps of the episode 24 0
+Alpha value is 0.758333
+I am in the steps of the episode 24 1
+Alpha value is 0.56
+I am in the steps of the episode 24 6
+Alpha value is 0.361667
+I am in the steps of the episode 24 11
+Alpha value is 0.673333
+I am in the steps of the episode 24 16
+Alpha value is 0.701667
+I am in the steps of the episode 24 15
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 21
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 10
+Alpha value is 0.361667
+I am in the steps of the episode 24 11
+Alpha value is 0.673333
+I am in the steps of the episode 24 12
+Alpha value is 0.673333
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.758333
+The exploration rate is 0.0426667
+released lock
+Goal state is 24 30
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 7
+Alpha value is 0.673333
+I am in the steps of the episode 24 6
+Alpha value is 0.418333
+I am in the steps of the episode 24 1
+Alpha value is 0.673333
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.645
+I am in the steps of the episode 24 12
+Alpha value is 0.673333
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.73
+The exploration rate is 0.0263333
+released lock
+Goal state is 24 31
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.616667
+I am in the steps of the episode 24 12
+Alpha value is 0.701667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.701667
+The exploration rate is 0.01
+released lock
+Goal state is 24 32
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.588333
+I am in the steps of the episode 24 12
+Alpha value is 0.701667
+I am in the steps of the episode 24 13
+Alpha value is 0.9
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 23
+Alpha value is 0.815
+I am in the steps of the episode 24 22
+Alpha value is 0.673333
+I am in the steps of the episode 24 17
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.9
+I am in the steps of the episode 24 13
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 19
+Alpha value is 0.815
+I am in the steps of the episode 24 24
+Alpha value is 0.645
+The exploration rate is 0.01
+released lock
+Goal state is 24 33
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.588333
+I am in the steps of the episode 24 12
+Alpha value is 0.701667
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.871667
+I am in the steps of the episode 24 19
+Alpha value is 0.843333
+I am in the steps of the episode 24 24
+Alpha value is 0.616667
+The exploration rate is 0.01
+released lock
+Goal state is 24 34
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.645
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.616667
+I am in the steps of the episode 24 12
+Alpha value is 0.673333
+I am in the steps of the episode 24 13
+Alpha value is 0.871667
+I am in the steps of the episode 24 18
+Alpha value is 0.843333
+I am in the steps of the episode 24 19
+Alpha value is 0.871667
+I am in the steps of the episode 24 24
+Alpha value is 0.588333
+The exploration rate is 0.01
+released lock
+Goal state is 24 35
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.616667
+I am in the steps of the episode 24 0
+Alpha value is 0.73
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.39
+I am in the steps of the episode 24 11
+Alpha value is 0.588333
+I am in the steps of the episode 24 12
+Alpha value is 0.645
+I am in the steps of the episode 24 13
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.815
+I am in the steps of the episode 24 17
+Alpha value is 0.843333
+I am in the steps of the episode 24 18
+Alpha value is 0.786667
+I am in the steps of the episode 24 23
+Alpha value is 0.758333
+I am in the steps of the episode 24 24
+Alpha value is 0.56
+The exploration rate is 0.01
+released lock
+Goal state is 24 36
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.616667
+I am in the steps of the episode 24 0
+Alpha value is 0.361667
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.361667
+I am in the steps of the episode 24 11
+Alpha value is 0.56
+I am in the steps of the episode 24 12
+Alpha value is 0.616667
+I am in the steps of the episode 24 11
+Alpha value is 0.843333
+I am in the steps of the episode 24 12
+Alpha value is 0.616667
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.786667
+I am in the steps of the episode 24 23
+Alpha value is 0.73
+I am in the steps of the episode 24 24
+Alpha value is 0.56
+The exploration rate is 0.01
+released lock
+Goal state is 24 37
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.361667
+I am in the steps of the episode 24 11
+Alpha value is 0.56
+I am in the steps of the episode 24 12
+Alpha value is 0.588333
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.758333
+I am in the steps of the episode 24 23
+Alpha value is 0.701667
+I am in the steps of the episode 24 24
+Alpha value is 0.588333
+The exploration rate is 0.01
+released lock
+Goal state is 24 38
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.588333
+I am in the steps of the episode 24 6
+Alpha value is 0.333333
+I am in the steps of the episode 24 11
+Alpha value is 0.531667
+I am in the steps of the episode 24 12
+Alpha value is 0.588333
+I am in the steps of the episode 24 13
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.73
+I am in the steps of the episode 24 23
+Alpha value is 0.673333
+I am in the steps of the episode 24 24
+Alpha value is 0.616667
+The exploration rate is 0.01
+released lock
+Goal state is 24 39
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.56
+I am in the steps of the episode 24 6
+Alpha value is 0.333333
+I am in the steps of the episode 24 11
+Alpha value is 0.531667
+I am in the steps of the episode 24 12
+Alpha value is 0.56
+I am in the steps of the episode 24 13
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.701667
+I am in the steps of the episode 24 23
+Alpha value is 0.645
+I am in the steps of the episode 24 24
+Alpha value is 0.616667
+The exploration rate is 0.01
+released lock
+Goal state is 24 40
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.531667
+I am in the steps of the episode 24 6
+Alpha value is 0.333333
+I am in the steps of the episode 24 11
+Alpha value is 0.503333
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 13
+Alpha value is 0.786667
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 23
+Alpha value is 0.673333
+I am in the steps of the episode 24 24
+Alpha value is 0.616667
+The exploration rate is 0.01
+released lock
+Goal state is 24 41
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.758333
+I am in the steps of the episode 24 0
+Alpha value is 0.701667
+I am in the steps of the episode 24 1
+Alpha value is 0.531667
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.475
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 23
+Alpha value is 0.701667
+I am in the steps of the episode 24 24
+Alpha value is 0.616667
+The exploration rate is 0.01
+released lock
+Goal state is 24 42
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.531667
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.446667
+I am in the steps of the episode 24 12
+Alpha value is 0.56
+I am in the steps of the episode 24 13
+Alpha value is 0.815
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 23
+Alpha value is 0.701667
+I am in the steps of the episode 24 24
+Alpha value is 0.616667
+The exploration rate is 0.01
+released lock
+Goal state is 24 43
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.503333
+I am in the steps of the episode 24 6
+Alpha value is 0.248333
+I am in the steps of the episode 24 11
+Alpha value is 0.446667
+I am in the steps of the episode 24 12
+Alpha value is 0.56
+I am in the steps of the episode 24 17
+Alpha value is 0.786667
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 20
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.418333
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.446667
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 10
+Alpha value is 0.446667
+I am in the steps of the episode 24 11
+Alpha value is 0.446667
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.248333
+I am in the steps of the episode 24 11
+Alpha value is 0.418333
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.248333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 8
+Alpha value is 0.276667
+I am in the steps of the episode 24 13
+Alpha value is 0.758333
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 17
+Alpha value is 0.701667
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 23
+Alpha value is 0.701667
+I am in the steps of the episode 24 22
+Alpha value is 0.588333
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 20
+Alpha value is 0.446667
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.418333
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.758333
+I am in the steps of the episode 24 16
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.701667
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.673333
+I am in the steps of the episode 24 16
+Alpha value is 0.418333
+I am in the steps of the episode 24 15
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.446667
+I am in the steps of the episode 24 15
+Alpha value is 0.616667
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.588333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.56
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.531667
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.475
+The exploration rate is 0.0263333
+released lock
+Goal state is 24 44
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.475
+I am in the steps of the episode 24 6
+Alpha value is 0.248333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.22
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.191667
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.701667
+I am in the steps of the episode 24 1
+Alpha value is 0.475
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.446667
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.418333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.39
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 17
+Alpha value is 0.361667
+I am in the steps of the episode 24 18
+Alpha value is 0.673333
+I am in the steps of the episode 24 17
+Alpha value is 0.673333
+I am in the steps of the episode 24 18
+Alpha value is 0.645
+I am in the steps of the episode 24 23
+Alpha value is 0.645
+I am in the steps of the episode 24 24
+Alpha value is 0.56
+The exploration rate is 0.01
+released lock
+Goal state is 24 45
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.475
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 11
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.9
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.73
+I am in the steps of the episode 24 0
+Alpha value is 0.673333
+I am in the steps of the episode 24 1
+Alpha value is 0.475
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.73
+I am in the steps of the episode 24 0
+Alpha value is 0.645
+I am in the steps of the episode 24 5
+Alpha value is 0.475
+I am in the steps of the episode 24 0
+Alpha value is 0.616667
+I am in the steps of the episode 24 1
+Alpha value is 0.446667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.73
+I am in the steps of the episode 24 0
+Alpha value is 0.588333
+I am in the steps of the episode 24 1
+Alpha value is 0.446667
+I am in the steps of the episode 24 0
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.446667
+I am in the steps of the episode 24 0
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.446667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.418333
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.588333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.871667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.73
+I am in the steps of the episode 24 0
+Alpha value is 0.588333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.73
+I am in the steps of the episode 24 10
+Alpha value is 0.588333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.843333
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.163333
+I am in the steps of the episode 24 7
+Alpha value is 0.815
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.163333
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+The exploration rate is 0.0263333
+released lock
+Goal state is 24 46
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.163333
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 7
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.56
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.531667
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.163333
+I am in the steps of the episode 24 3
+Alpha value is 0.9
+I am in the steps of the episode 24 4
+Alpha value is 0.9
+I am in the steps of the episode 24 3
+Alpha value is 0.9
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.446667
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.333333
+I am in the steps of the episode 24 16
+Alpha value is 0.475
+I am in the steps of the episode 24 15
+Alpha value is 0.305
+I am in the steps of the episode 24 16
+Alpha value is 0.446667
+I am in the steps of the episode 24 11
+Alpha value is 0.276667
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+The exploration rate is 0.0426667
+released lock
+Goal state is 24 47
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.503333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.0783333
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 16
+Alpha value is 0.446667
+I am in the steps of the episode 24 15
+Alpha value is 0.248333
+I am in the steps of the episode 24 16
+Alpha value is 0.418333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 10
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.39
+I am in the steps of the episode 24 12
+Alpha value is 0.531667
+I am in the steps of the episode 24 13
+Alpha value is 0.361667
+I am in the steps of the episode 24 18
+Alpha value is 0.616667
+I am in the steps of the episode 24 23
+Alpha value is 0.616667
+I am in the steps of the episode 24 22
+Alpha value is 0.56
+I am in the steps of the episode 24 23
+Alpha value is 0.588333
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.0263333
+released lock
+Goal state is 24 48
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 7
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.333333
+I am in the steps of the episode 24 10
+Alpha value is 0.531667
+I am in the steps of the episode 24 11
+Alpha value is 0.305
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 20
+Alpha value is 0.843333
+I am in the steps of the episode 24 21
+Alpha value is 0.73
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.701667
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 17
+Alpha value is 0.22
+I am in the steps of the episode 24 18
+Alpha value is 0.588333
+I am in the steps of the episode 24 23
+Alpha value is 0.56
+I am in the steps of the episode 24 24
+Alpha value is 0.503333
+The exploration rate is 0.01
+released lock
+Goal state is 24 49
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.276667
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 17
+Alpha value is 0.673333
+I am in the steps of the episode 24 18
+Alpha value is 0.56
+I am in the steps of the episode 24 23
+Alpha value is 0.531667
+I am in the steps of the episode 24 24
+Alpha value is 0.475
+The exploration rate is 0.01
+released lock
+Goal state is 24 50
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.248333
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.673333
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 22
+Alpha value is 0.191667
+I am in the steps of the episode 24 23
+Alpha value is 0.56
+I am in the steps of the episode 24 24
+Alpha value is 0.503333
+The exploration rate is 0.01
+released lock
+Goal state is 24 51
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 21
+Alpha value is 0.645
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 21
+Alpha value is 0.616667
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 21
+Alpha value is 0.588333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.56
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.531667
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.503333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 17
+Alpha value is 0.503333
+I am in the steps of the episode 24 18
+Alpha value is 0.531667
+I am in the steps of the episode 24 19
+Alpha value is 0.588333
+I am in the steps of the episode 24 24
+Alpha value is 0.503333
+The exploration rate is 0.01
+released lock
+Goal state is 24 52
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.191667
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.106667
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.0783333
+I am in the steps of the episode 24 20
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.0783333
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.106667
+I am in the steps of the episode 24 10
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.191667
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.248333
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.248333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.248333
+I am in the steps of the episode 24 20
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 10
+Alpha value is 0.73
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.191667
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.163333
+I am in the steps of the episode 24 20
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.135
+I am in the steps of the episode 24 20
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 15
+Alpha value is 0.106667
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.0783333
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 20
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+The exploration rate is 0.0263333
+released lock
+Goal state is 24 53
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 11
+Alpha value is 0.191667
+I am in the steps of the episode 24 10
+Alpha value is 0.191667
+I am in the steps of the episode 24 11
+Alpha value is 0.163333
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 5
+Alpha value is 0.135
+I am in the steps of the episode 24 0
+Alpha value is 0.503333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.106667
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.0783333
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 1
+Alpha value is 0.701667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.135
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 20
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 20
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.475
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 7
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.135
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.135
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+The exploration rate is 0.0426667
+released lock
+Goal state is 24 54
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.531667
+I am in the steps of the episode 24 5
+Alpha value is 0.05
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.9
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.135
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.163333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 12
+Alpha value is 0.191667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.22
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.248333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.333333
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 6
+Alpha value is 0.305
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.758333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 20
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.106667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+The exploration rate is 0.059
+released lock
+Goal state is 24 55
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.786667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.39
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.361667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.333333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 10
+Alpha value is 0.191667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+The exploration rate is 0.0753333
+released lock
+Goal state is 24 56
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.276667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 5
+Alpha value is 0.05
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.22
+I am in the steps of the episode 24 23
+Alpha value is 0.616667
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.059
+released lock
+Goal state is 24 57
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.446667
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.446667
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.446667
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.418333
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.39
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.361667
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.333333
+I am in the steps of the episode 24 22
+Alpha value is 0.276667
+I am in the steps of the episode 24 23
+Alpha value is 0.645
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.0426667
+released lock
+Goal state is 24 58
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.305
+I am in the steps of the episode 24 21
+Alpha value is 0.305
+I am in the steps of the episode 24 20
+Alpha value is 0.276667
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.276667
+I am in the steps of the episode 24 21
+Alpha value is 0.276667
+I am in the steps of the episode 24 16
+Alpha value is 0.248333
+I am in the steps of the episode 24 21
+Alpha value is 0.248333
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 21
+Alpha value is 0.22
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 21
+Alpha value is 0.191667
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 21
+Alpha value is 0.163333
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 21
+Alpha value is 0.163333
+I am in the steps of the episode 24 22
+Alpha value is 0.191667
+I am in the steps of the episode 24 23
+Alpha value is 0.673333
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.0263333
+released lock
+Goal state is 24 59
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.22
+I am in the steps of the episode 24 21
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.191667
+I am in the steps of the episode 24 21
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.163333
+I am in the steps of the episode 24 21
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.135
+I am in the steps of the episode 24 21
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.106667
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.0783333
+I am in the steps of the episode 24 20
+Alpha value is 0.815
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.701667
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 60
+acquired lock
+I am in the steps of the episode 24 5
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.73
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 61
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 12
+Alpha value is 0.0783333
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.701667
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.673333
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 62
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.645
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 63
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 0
+Alpha value is 0.276667
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 17
+Alpha value is 0.645
+I am in the steps of the episode 24 18
+Alpha value is 0.503333
+I am in the steps of the episode 24 23
+Alpha value is 0.616667
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 64
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.588333
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 65
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 20
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.616667
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 66
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.0783333
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 11
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 15
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.616667
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 67
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 2
+Alpha value is 0.276667
+I am in the steps of the episode 24 7
+Alpha value is 0.786667
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.106667
+I am in the steps of the episode 24 6
+Alpha value is 0.05
+I am in the steps of the episode 24 5
+Alpha value is 0.701667
+I am in the steps of the episode 24 0
+Alpha value is 0.475
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.135
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.05
+I am in the steps of the episode 24 23
+Alpha value is 0.616667
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 68
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 7
+Alpha value is 0.106667
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.106667
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 17
+Alpha value is 0.05
+I am in the steps of the episode 24 18
+Alpha value is 0.475
+I am in the steps of the episode 24 23
+Alpha value is 0.645
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 69
+acquired lock
+I am in the steps of the episode 24 1
+Alpha value is 0.39
+I am in the steps of the episode 24 6
+Alpha value is 0.276667
+I am in the steps of the episode 24 11
+Alpha value is 0.106667
+I am in the steps of the episode 24 16
+Alpha value is 0.106667
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.0783333
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 16
+Alpha value is 0.05
+I am in the steps of the episode 24 21
+Alpha value is 0.05
+I am in the steps of the episode 24 22
+Alpha value is 0.815
+I am in the steps of the episode 24 23
+Alpha value is 0.673333
+I am in the steps of the episode 24 24
+Alpha value is 0.531667
+The exploration rate is 0.01
+released lock
+Goal state is 24 70
+I am here in thread 2
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+13 8 8 -0.1
+22 21 21 100
+23 18 18 -0.1
+22 23 23 -0.1
+17 22 22 -0.1
+19 24 24 -0.1
+8 13 13 -0.1
+24 19 19 -0.1
+21 16 16 -0.1
+20 21 21 100
+11 6 6 -0.1
+16 11 11 -0.1
+16 17 17 -0.1
+16 15 15 -10
+6 11 11 -0.1
+13 18 18 -0.1
+7 2 2 -0.1
+13 14 14 -0.1
+15 20 20 -10
+13 12 12 -0.1
+11 16 16 -0.1
+18 23 23 -0.1
+2 1 1 -0.1
+8 3 3 -10
+11 10 10 -0.1
+2 3 3 -10
+11 12 12 -0.1
+7 6 6 -0.1
+14 13 13 -0.1
+7 8 8 -0.1
+2 7 7 -10
+9 4 4 -0.1
+1 2 2 -0.1
+8 7 7 -10
+0 1 1 -0.1
+5 6 6 -0.1
+1 6 6 -0.1
+8 9 9 -0.1
+0 5 5 -0.1
+5 0 0 -0.1
+21 20 20 -10
+5 10 10 -0.1
+19 18 18 -0.1
+21 22 22 -0.1
+9 8 8 -0.1
+22 17 17 -0.1
+1 0 0 -0.1
+7 12 12 -0.1
+19 14 14 -0.1
+17 12 12 -0.1
+10 5 5 -0.1
+4 9 9 -0.1
+14 19 19 -0.1
+23 24 24 -0.1
+14 9 9 -0.1
+23 22 22 -0.1
+4 3 3 -10
+10 11 11 -0.1
+9 14 14 -0.1
+17 16 16 -0.1
+6 1 1 -0.1
+24 23 23 -0.1
+17 18 18 -0.1
+12 17 17 -0.1
+20 15 15 -10
+6 7 7 -10
+12 11 11 -0.1
+16 21 21 100
+6 5 5 -0.1
+15 16 16 -0.1
+12 13 13 -0.1
+18 19 19 -0.1
+15 10 10 -0.1
+3 2 2 -0.1
+3 4 4 -0.1
+3 8 8 -0.1
+18 13 13 -0.1
+12 7 7 -10
+18 17 17 -0.1
+10 15 15 -10
+acquired lock
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.05
+I am in the steps of the episode 21 21
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 21 71
+acquired lock
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.05
+I am in the steps of the episode 21 21
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 21 72
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.05
+I am in the steps of the episode 21 21
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 21 73
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.05
+I am in the steps of the episode 21 21
+Alpha value is 0.135
+The exploration rate is 0.01
+released lock
+Goal state is 21 74
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.0783333
+I am in the steps of the episode 21 21
+Alpha value is 0.163333
+The exploration rate is 0.01
+released lock
+Goal state is 21 75
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.106667
+I am in the steps of the episode 21 21
+Alpha value is 0.191667
+The exploration rate is 0.01
+released lock
+Goal state is 21 76
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.276667
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.248333
+I am in the steps of the episode 21 5
+Alpha value is 0.0783333
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.248333
+I am in the steps of the episode 21 1
+Alpha value is 0.05
+I am in the steps of the episode 21 6
+Alpha value is 0.248333
+I am in the steps of the episode 21 11
+Alpha value is 0.05
+I am in the steps of the episode 21 16
+Alpha value is 0.135
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 77
+acquired lock
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.248333
+I am in the steps of the episode 21 11
+Alpha value is 0.0783333
+I am in the steps of the episode 21 16
+Alpha value is 0.163333
+I am in the steps of the episode 21 21
+Alpha value is 0.248333
+The exploration rate is 0.01
+released lock
+Goal state is 21 78
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.22
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.22
+I am in the steps of the episode 21 11
+Alpha value is 0.106667
+I am in the steps of the episode 21 16
+Alpha value is 0.191667
+I am in the steps of the episode 21 21
+Alpha value is 0.276667
+The exploration rate is 0.01
+released lock
+Goal state is 21 79
+acquired lock
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.22
+I am in the steps of the episode 21 11
+Alpha value is 0.135
+I am in the steps of the episode 21 6
+Alpha value is 0.22
+I am in the steps of the episode 21 11
+Alpha value is 0.163333
+I am in the steps of the episode 21 16
+Alpha value is 0.22
+I am in the steps of the episode 21 11
+Alpha value is 0.248333
+I am in the steps of the episode 21 16
+Alpha value is 0.248333
+I am in the steps of the episode 21 11
+Alpha value is 0.22
+I am in the steps of the episode 21 16
+Alpha value is 0.276667
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 80
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.248333
+I am in the steps of the episode 21 11
+Alpha value is 0.191667
+I am in the steps of the episode 21 16
+Alpha value is 0.305
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 81
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.361667
+I am in the steps of the episode 21 6
+Alpha value is 0.276667
+I am in the steps of the episode 21 1
+Alpha value is 0.163333
+I am in the steps of the episode 21 6
+Alpha value is 0.305
+I am in the steps of the episode 21 11
+Alpha value is 0.191667
+I am in the steps of the episode 21 16
+Alpha value is 0.333333
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 82
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.361667
+I am in the steps of the episode 21 6
+Alpha value is 0.333333
+I am in the steps of the episode 21 11
+Alpha value is 0.22
+I am in the steps of the episode 21 10
+Alpha value is 0.305
+I am in the steps of the episode 21 5
+Alpha value is 0.191667
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.361667
+I am in the steps of the episode 21 11
+Alpha value is 0.22
+I am in the steps of the episode 21 16
+Alpha value is 0.305
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 83
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.418333
+I am in the steps of the episode 21 6
+Alpha value is 0.39
+I am in the steps of the episode 21 11
+Alpha value is 0.248333
+I am in the steps of the episode 21 10
+Alpha value is 0.276667
+I am in the steps of the episode 21 11
+Alpha value is 0.276667
+I am in the steps of the episode 21 16
+Alpha value is 0.248333
+I am in the steps of the episode 21 21
+Alpha value is 0.248333
+The exploration rate is 0.01
+released lock
+Goal state is 21 84
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.446667
+I am in the steps of the episode 21 6
+Alpha value is 0.418333
+I am in the steps of the episode 21 11
+Alpha value is 0.305
+I am in the steps of the episode 21 12
+Alpha value is 0.22
+I am in the steps of the episode 21 7
+Alpha value is 0.276667
+I am in the steps of the episode 21 6
+Alpha value is 0.446667
+I am in the steps of the episode 21 11
+Alpha value is 0.305
+I am in the steps of the episode 21 16
+Alpha value is 0.191667
+I am in the steps of the episode 21 21
+Alpha value is 0.276667
+The exploration rate is 0.01
+released lock
+Goal state is 21 85
+acquired lock
+I am in the steps of the episode 21 5
+Alpha value is 0.418333
+I am in the steps of the episode 21 0
+Alpha value is 0.475
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.446667
+I am in the steps of the episode 21 1
+Alpha value is 0.418333
+I am in the steps of the episode 21 6
+Alpha value is 0.475
+I am in the steps of the episode 21 11
+Alpha value is 0.333333
+I am in the steps of the episode 21 16
+Alpha value is 0.22
+I am in the steps of the episode 21 21
+Alpha value is 0.305
+The exploration rate is 0.01
+released lock
+Goal state is 21 86
+acquired lock
+I am in the steps of the episode 21 5
+Alpha value is 0.39
+I am in the steps of the episode 21 0
+Alpha value is 0.446667
+I am in the steps of the episode 21 1
+Alpha value is 0.361667
+I am in the steps of the episode 21 6
+Alpha value is 0.503333
+I am in the steps of the episode 21 11
+Alpha value is 0.333333
+I am in the steps of the episode 21 16
+Alpha value is 0.248333
+I am in the steps of the episode 21 21
+Alpha value is 0.333333
+The exploration rate is 0.01
+released lock
+Goal state is 21 87
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.39
+I am in the steps of the episode 21 6
+Alpha value is 0.531667
+I am in the steps of the episode 21 11
+Alpha value is 0.305
+I am in the steps of the episode 21 16
+Alpha value is 0.276667
+I am in the steps of the episode 21 15
+Alpha value is 0.305
+I am in the steps of the episode 21 16
+Alpha value is 0.305
+I am in the steps of the episode 21 21
+Alpha value is 0.701667
+The exploration rate is 0.01
+released lock
+Goal state is 21 88
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.418333
+I am in the steps of the episode 21 6
+Alpha value is 0.56
+I am in the steps of the episode 21 11
+Alpha value is 0.276667
+I am in the steps of the episode 21 16
+Alpha value is 0.276667
+I am in the steps of the episode 21 17
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.475
+I am in the steps of the episode 21 23
+Alpha value is 0.673333
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.815
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 23
+Alpha value is 0.786667
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 23
+Alpha value is 0.758333
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.73
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.73
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.701667
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.701667
+I am in the steps of the episode 21 18
+Alpha value is 0.475
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 22
+Alpha value is 0.815
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 22
+Alpha value is 0.786667
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.446667
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 22
+Alpha value is 0.758333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 19
+Alpha value is 0.758333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 13
+Alpha value is 0.758333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 13
+Alpha value is 0.758333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 18
+Alpha value is 0.73
+I am in the steps of the episode 21 13
+Alpha value is 0.758333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 23
+Alpha value is 0.673333
+I am in the steps of the episode 21 22
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 13
+Alpha value is 0.73
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 14
+Alpha value is 0.786667
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 14
+Alpha value is 0.758333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 24
+Alpha value is 0.73
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 19
+Alpha value is 0.673333
+I am in the steps of the episode 21 18
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 24
+Alpha value is 0.418333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 22
+Alpha value is 0.701667
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 24
+Alpha value is 0.503333
+I am in the steps of the episode 21 23
+Alpha value is 0.645
+I am in the steps of the episode 21 18
+Alpha value is 0.701667
+I am in the steps of the episode 21 13
+Alpha value is 0.73
+I am in the steps of the episode 21 12
+Alpha value is 0.531667
+I am in the steps of the episode 21 11
+Alpha value is 0.758333
+I am in the steps of the episode 21 16
+Alpha value is 0.248333
+I am in the steps of the episode 21 21
+Alpha value is 0.276667
+The exploration rate is 0.01
+released lock
+Goal state is 21 89
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.446667
+I am in the steps of the episode 21 6
+Alpha value is 0.588333
+I am in the steps of the episode 21 11
+Alpha value is 0.305
+I am in the steps of the episode 21 16
+Alpha value is 0.276667
+I am in the steps of the episode 21 21
+Alpha value is 0.248333
+The exploration rate is 0.01
+released lock
+Goal state is 21 90
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.475
+I am in the steps of the episode 21 2
+Alpha value is 0.56
+I am in the steps of the episode 21 7
+Alpha value is 0.73
+I am in the steps of the episode 21 6
+Alpha value is 0.531667
+I am in the steps of the episode 21 11
+Alpha value is 0.333333
+I am in the steps of the episode 21 16
+Alpha value is 0.305
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 91
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.446667
+I am in the steps of the episode 21 6
+Alpha value is 0.56
+I am in the steps of the episode 21 11
+Alpha value is 0.361667
+I am in the steps of the episode 21 16
+Alpha value is 0.333333
+I am in the steps of the episode 21 21
+Alpha value is 0.191667
+The exploration rate is 0.01
+released lock
+Goal state is 21 92
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.475
+I am in the steps of the episode 21 6
+Alpha value is 0.588333
+I am in the steps of the episode 21 11
+Alpha value is 0.39
+I am in the steps of the episode 21 16
+Alpha value is 0.333333
+I am in the steps of the episode 21 21
+Alpha value is 0.191667
+The exploration rate is 0.01
+released lock
+Goal state is 21 93
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.503333
+I am in the steps of the episode 21 6
+Alpha value is 0.616667
+I am in the steps of the episode 21 11
+Alpha value is 0.418333
+I am in the steps of the episode 21 16
+Alpha value is 0.361667
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 94
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.531667
+I am in the steps of the episode 21 6
+Alpha value is 0.645
+I am in the steps of the episode 21 11
+Alpha value is 0.446667
+I am in the steps of the episode 21 16
+Alpha value is 0.39
+I am in the steps of the episode 21 21
+Alpha value is 0.248333
+The exploration rate is 0.01
+released lock
+Goal state is 21 95
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.56
+I am in the steps of the episode 21 6
+Alpha value is 0.673333
+I am in the steps of the episode 21 11
+Alpha value is 0.475
+I am in the steps of the episode 21 16
+Alpha value is 0.418333
+I am in the steps of the episode 21 21
+Alpha value is 0.276667
+The exploration rate is 0.01
+released lock
+Goal state is 21 96
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.588333
+I am in the steps of the episode 21 6
+Alpha value is 0.701667
+I am in the steps of the episode 21 11
+Alpha value is 0.503333
+I am in the steps of the episode 21 16
+Alpha value is 0.446667
+I am in the steps of the episode 21 21
+Alpha value is 0.305
+The exploration rate is 0.01
+released lock
+Goal state is 21 97
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.616667
+I am in the steps of the episode 21 6
+Alpha value is 0.73
+I am in the steps of the episode 21 11
+Alpha value is 0.531667
+I am in the steps of the episode 21 16
+Alpha value is 0.475
+I am in the steps of the episode 21 11
+Alpha value is 0.276667
+I am in the steps of the episode 21 16
+Alpha value is 0.446667
+I am in the steps of the episode 21 21
+Alpha value is 0.248333
+The exploration rate is 0.01
+released lock
+Goal state is 21 98
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.645
+I am in the steps of the episode 21 6
+Alpha value is 0.758333
+I am in the steps of the episode 21 11
+Alpha value is 0.503333
+I am in the steps of the episode 21 16
+Alpha value is 0.418333
+I am in the steps of the episode 21 21
+Alpha value is 0.22
+The exploration rate is 0.01
+released lock
+Goal state is 21 99
+acquired lock
+I am in the steps of the episode 21 1
+Alpha value is 0.673333
+I am in the steps of the episode 21 6
+Alpha value is 0.73
+I am in the steps of the episode 21 11
+Alpha value is 0.475
+I am in the steps of the episode 21 16
+Alpha value is 0.39
+I am in the steps of the episode 21 21
+Alpha value is 0.191667
+The exploration rate is 0.01
+released lock
+Q Value is 1.09578
+Q Value is 3.38327
+Q Value is 2.92679
+Q Value is 2.98121
+Q Value is -0.0998717
+Q Value is 2.49312
+Q Value is 9.79993
+Q Value is 1.6144
+Q Value is 1.81245
+Q Value is -0.0251038
+Q Value is -2.31985
+Q Value is -2.83858
+Q Value is 29.5554
+Q Value is -0.0365492
+Q Value is 23.1667
+Q Value is 3.99225
+Q Value is -0.0999872
+Q Value is 0.741366
+Q Value is -9.74587
+Q Value is 1.92705
+Q Value is 46.2922
+Q Value is 2.53307
+Q Value is -0.0999985
+Q Value is -9.9
+Q Value is -9.87093
+Q Value is -8.85653
+Q Value is -7.72683
+Q Value is 5.22917
+Q Value is 3.29155
+Q Value is -0.0999789
+Q Value is -6.91032
+Q Value is -0.09
+Q Value is -0.1
+Q Value is -0.09
+Q Value is 5.62518
+Q Value is -8.50609
+Q Value is 11.7293
+Q Value is -0.0999835
+Q Value is -0.1
+Q Value is 0.0182162
+Q Value is -9.36297
+Q Value is -9.28404
+Q Value is 2.76286
+Q Value is 19.84
+Q Value is -0.0987167
+Q Value is -9.56848
+Q Value is -0.1
+Q Value is -0.0999872
+Q Value is 3.61265
+Q Value is -0.0983531
+Q Value is -0.099
+Q Value is -0.09
+Q Value is 9.81047
+Q Value is 2.21819
+Q Value is 1.81184
+Q Value is 1.88759
+Q Value is -9
+Q Value is 2.16814
+Q Value is 2.71224
+Q Value is 0.150609
+Q Value is -0.1
+Q Value is 0
+Q Value is 23.2129
+Q Value is -8.5567
+Q Value is -0.00775344
+Q Value is -0.1
+Q Value is -0.100632
+Q Value is 97.957
+Q Value is -0.1
+Q Value is 9.06849
+Q Value is -0.768234
+Q Value is 2.64377
+Q Value is -9.88022
+Q Value is -0.0998717
+Q Value is -0.0997886
+Q Value is -0.099
+Q Value is 2.28176
+Q Value is 14.7833
+Q Value is -5.57353
+Q Value is -0.0998717
+The total reward is : 95.767

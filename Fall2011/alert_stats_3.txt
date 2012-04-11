@@ -1,0 +1,6 @@
+The average reward is : 97.544
+The sum of squares is : 668.463
+Number of runs is : 50
+The average reward is : 97.464
+The sum of squares is : 1643.38
+Number of runs is : 50

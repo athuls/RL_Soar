@@ -1,0 +1,272 @@
+#include<iostream>
+#include<stdlib.h>
+#include<string>
+#include<vector>
+#include<pthread.h>
+#include "Episodes.hpp"
+#include <unistd.h>
+#include <math.h>
+
+using namespace std;
+
+Episodes::Episodes(Agent *agent, Environment *environment, double discount){
+                m_agent=agent;
+                m_environment=environment;
+		discountRate=discount;
+		numEpisodes=0;
+		
+		mutex1=PTHREAD_MUTEX_INITIALIZER;
+}
+
+void Episodes::changeEnvironment(){
+	
+//	while(true){
+	cout<<"Trying to acquire lock in thread 2"<<endl;
+	pthread_mutex_lock(&mutex1);
+	cout<<"Acquired lock in thread 2"<<endl;
+	while(numEpisodes!=20)
+	{	
+		cout<<"waiting 1"<<endl;
+		pthread_cond_wait(&episodeNum, &mutex1);
+		cout<<"waiting 2"<<endl;
+	}
+		
+//		if(numEpisodes==60){
+			//pthread_mutex_lock(&mutex1);
+			/*	while(numEpisodes!=10)
+			{	pthread_cond_wait(&episodeNum,&mutex1);
+				cout<<"I am waiting"<<endl;
+			}*/	
+		
+			cout<<"I am here in thread 2"<<endl;
+			
+			////////////////////////////////////////////////////Blocks World//////////////////////
+		/*	MDP *instance=new BlocksWorld("blocksWorld.txt", "0", "7", "0.1", "0.9", 10);
+			instance->insertActionsAndNextState();
+			m_environment->readConfig("blocksWorld.txt");
+		*/	
+			////////////////////////////////////////////////////Blocks World//////////////////////
+			
+			////////////////////////////////////////////////////Mines World//////////////////////
+			vector<string> argumentsMinesWorld;
+			argumentsMinesWorld.push_back("3");	
+			argumentsMinesWorld.push_back("7");	
+			argumentsMinesWorld.push_back("15");	
+			argumentsMinesWorld.push_back("20");	
+			
+			MDP *instance=new MinesWorld("minesWorld.txt", "0", "21", "0.1", "0.9", 25, argumentsMinesWorld);
+			instance->insertActionsAndNextState();
+			m_environment->readConfig("minesWorld.txt");
+			////////////////////////////////////////////////////Mines World//////////////////////
+
+			cout<<"Exiting thread 2 before unlocking"<<endl;
+			pthread_mutex_unlock(&mutex1);
+			cout<<"Exiting thread 2 after unlocking"<<endl;
+			//break;
+//		}
+//	}
+}	
+
+//static parameters for Q-learning	
+void Episodes::runEpisodes(double learningRateArg, double explorationRateArg){
+	
+	string currentActionByAgent, nextStateInEnvironment;
+	double rewardFromEnvironment;
+	int steps;
+
+	m_agent->initializeLearningAndExplorationRate(learningRateArg, explorationRateArg);
+
+	while(numEpisodes!=100){
+		
+		steps=0;
+		cout<<"Goal state is "<<m_environment->m_goalState<<" "<<numEpisodes<<endl;
+
+		pthread_mutex_lock(&mutex1);
+		cout<<"acquired lock"<<endl;
+		m_agent->currentState=m_environment->m_initialState;		
+		
+		while(m_agent->currentState!=m_environment->m_goalState){
+			steps++;
+			currentActionByAgent=m_agent->getAction(m_agent->currentState, m_agent->getExplorationRate());
+			nextStateStruct tempNextStateInfo=m_environment->getNextStateAndReward(m_agent->currentState, currentActionByAgent);
+			nextStateInEnvironment=tempNextStateInfo.nextState;
+			rewardFromEnvironment=tempNextStateInfo.reward;
+			
+			stateActionPair tempStateAction;
+			tempStateAction.state=m_agent->currentState;
+			tempStateAction.action=currentActionByAgent;
+			m_agent->QValues[tempStateAction]=m_agent->QValues[tempStateAction]+m_agent->getLearningRate()*(rewardFromEnvironment+(discountRate*m_agent->maximumQValue(nextStateInEnvironment))-m_agent->QValues[tempStateAction]);
+			m_agent->currentState=nextStateInEnvironment;	
+			
+			cout<<"I am in the steps of the episode"<<" "<<m_environment->m_goalState<<" "<<m_agent->currentState<<endl;
+			if(steps>100)
+				break;
+		}
+		numEpisodes++;
+		
+		cout<<"the learning rate is "<<m_agent->getLearningRate()<<endl;
+		cout<<"released lock"<<endl;
+		pthread_mutex_unlock(&mutex1);
+		if(numEpisodes==20)	
+		{	
+			cout<<"before signalling"<<endl;
+			pthread_cond_signal(&episodeNum);
+//			sleep(2);
+			cout<<"I am waiting at 20 episodes"<<endl;
+			pthread_join(threadEnv, NULL);
+		}
+
+	}
+	
+	for(mapTypeQValues::iterator it=m_agent->QValues.begin();it!=m_agent->QValues.end();it++)
+		cout<<"Q Value is "<<it->second<<endl;
+	
+}
+
+void Deltas::insertDelta(string action, double delta){
+	if(mapActionDeltas[action].size()<windowSize)
+		mapActionDeltas[action].push_back(delta);
+	else
+	{
+		mapActionDeltas[action].erase(mapActionDeltas[action].begin());
+		mapActionDeltas[action].push_back(delta);
+	}
+}
+
+double Deltas::computeDeltaBar(string action){
+	double avg=0;
+
+	for(int i=0;i<mapActionDeltas[action].size();i++){
+		avg+=mapActionDeltas[action][i];
+	}
+		
+	if(mapActionDeltas[action].size()!=0)
+	{	
+		avg=(double)((double)avg/(double)mapActionDeltas[action].size());	
+	
+		//Computing mean of Delta bar for every action	
+		mapActionDeltaBarNum[action]++;
+	
+		double previousMean=mapActionDeltaBarMean[action];
+		mapActionDeltaBarMean[action]+=(double)((double)(avg-previousMean)/(double)mapActionDeltaBarNum[action]);	
+
+		//For computing standard deviation
+		mapActionStdDev[action]+=(avg-previousMean)*(avg-mapActionDeltaBarMean[action]);
+	}
+	
+	return avg;
+}
+	
+double Deltas::computeStdDev(string action){
+	double returnDev;
+	if(mapActionDeltaBarNum[action]>1)
+		returnDev=sqrt((double)((double)mapActionStdDev[action]/(double)(mapActionDeltaBarNum[action]-1)));	
+
+	return returnDev;
+}
+
+void Episodes::runEpisodesAlert(){
+	
+	string currentActionByAgent, nextStateInEnvironment;
+	double rewardFromEnvironment;
+	double currentDelta, epsilon;
+	Deltas deltaObj;
+
+	mapType mapActionAlpha;
+	mapType mapActionDelta;	
+	mapTypeStringInt mapActionCount;
+	
+	int steps;
+	
+	m_agent->initializeExplorationRate();
+		
+	while(numEpisodes!=100){
+		steps=0;
+		cout<<"Goal state is "<<m_environment->m_goalState<<" "<<numEpisodes<<endl;
+		pthread_mutex_lock(&mutex1);
+		cout<<"acquired lock"<<endl;
+		m_agent->currentState=m_environment->m_initialState;		
+	
+		while(m_agent->currentState!=m_environment->m_goalState){
+			steps++;
+			//get current action to be executed by agent
+			currentActionByAgent=m_agent->getAction(m_agent->currentState, m_agent->getExplorationRate());
+			mapActionCount[currentActionByAgent]++;
+			
+			//get the next state and reward from the environment
+			nextStateStruct tempNextStateInfo=m_environment->getNextStateAndReward(m_agent->currentState, currentActionByAgent);
+			nextStateInEnvironment=tempNextStateInfo.nextState;
+			rewardFromEnvironment=tempNextStateInfo.reward;
+			
+			stateActionPair tempStateAction;
+			tempStateAction.state=m_agent->currentState;
+			tempStateAction.action=currentActionByAgent;
+
+			//get the delta value for the current state and action
+			currentDelta=rewardFromEnvironment+(discountRate*m_agent->maximumQValue(nextStateInEnvironment))-m_agent->QValues[tempStateAction];
+			//update the Q value for current state and action	
+			m_agent->QValues[tempStateAction]=m_agent->QValues[tempStateAction]+m_agent->getLearningRate(currentActionByAgent)*currentDelta;
+			
+			//get deltabar i.e. average of deltas for the current action
+			double currentDeltaBar=deltaObj.computeDeltaBar(currentActionByAgent);
+
+			//check and then further change the learning rate if needed
+			if((currentDeltaBar*currentDelta>0) && ((currentDeltaBar-deltaObj.mapActionDeltaBarMean[currentActionByAgent])>(m_agent->constantF*deltaObj.computeStdDev(currentActionByAgent))) )
+				m_agent->updateLearningRate(currentActionByAgent, true);
+			else if(currentDeltaBar*currentDelta <= 0)
+				m_agent->updateLearningRate(currentActionByAgent, false);	
+		
+			deltaObj.insertDelta(currentActionByAgent, currentDelta);		
+			
+			m_agent->currentState=nextStateInEnvironment;	
+			
+			cout<<"I am in the steps of the episode"<<" "<<m_environment->m_goalState<<" "<<m_agent->currentState<<endl;
+			cout<<"Alpha value is "<<m_agent->learningRate[currentActionByAgent]<<endl;
+
+			if(steps>100)
+				break;
+		}
+		numEpisodes++;
+		
+		//check and update the exploration rate
+		if(steps<100)
+			m_agent->updateExplorationRate(false);
+		else
+			m_agent->updateExplorationRate(true);
+	
+			
+		cout<<"The exploration rate is "<<m_agent->explorationRate<<endl;
+		cout<<"released lock"<<endl;
+		pthread_mutex_unlock(&mutex1);
+		if(numEpisodes==70)		
+			sleep(5);
+		//	pthread_cond_signal(&episodeNum);
+
+	}
+	
+	for(mapTypeQValues::iterator it=m_agent->QValues.begin();it!=m_agent->QValues.end();it++)
+		cout<<"Q Value is "<<it->second<<endl;
+}
+
+void Episodes::evaluateQValues(){
+
+	double cumReward, avgReward=0;	
+	string currAction, currState;
+	int numEvaluations=2000;	
+	
+	for(int i=numEvaluations;i>0;i--){	
+		currState=m_environment->m_initialState;
+		cumReward=0;
+		while(currState!=m_environment->m_goalState){
+			currAction=m_agent->maximumValueAction(currState);
+			nextStateStruct tempNextStateAndReward=m_environment->getNextStateAndReward(currState,currAction);
+			cumReward=cumReward+tempNextStateAndReward.reward;
+			currState=tempNextStateAndReward.nextState;
+		}
+		avgReward+=cumReward;
+	}
+	
+	avgReward=(double)((double)avgReward/(double)numEvaluations);
+		
+	cout<<"The total reward is : "<<avgReward<<endl;
+}

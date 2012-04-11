@@ -1,0 +1,11 @@
+ggplot(delivery.df, aes(Time, Destination, colour = Service)) + geom_point()
+
+Commands:
+data1=read.csv("/home/athuls89/Desktop/RL_SOAR/Fall2011/results/winter_2012/cum_rewards/merged_data", header=T)
+my.aov=aov(cumulativereward~learningrate*explorationrate, data=data1)
+summary(my.aov)
+data1$learningrate=as.factor(data1$learningrate)
+data1$explorationrate=as.factor(data1$explorationrate)
+my.aov=aov(cumulativereward~learningrate*explorationrate, data=data1)
+summary(my.aov)
+TukeyHSD(my.aov)

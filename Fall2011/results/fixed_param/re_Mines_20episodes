@@ -1,0 +1,2577 @@
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+Completed creating file
+8
+21
+18
+23
+22
+24
+13
+19
+16
+21
+6
+11
+17
+15
+11
+18
+2
+14
+20
+12
+16
+23
+1
+3
+10
+3
+12
+6
+13
+8
+7
+4
+2
+7
+1
+6
+6
+9
+5
+0
+20
+10
+18
+22
+8
+17
+0
+12
+14
+12
+5
+9
+19
+24
+9
+22
+3
+11
+14
+16
+1
+23
+18
+17
+15
+7
+11
+21
+5
+16
+13
+19
+10
+2
+4
+8
+13
+7
+17
+15
+13 8 8 -0.1
+22 21 21 -0.1
+23 18 18 -0.1
+22 23 23 -0.1
+17 22 22 -0.1
+19 24 24 100
+8 13 13 -0.1
+24 19 19 -0.1
+21 16 16 -0.1
+20 21 21 -0.1
+11 6 6 -0.1
+16 11 11 -0.1
+16 17 17 -10
+16 15 15 -0.1
+6 11 11 -0.1
+13 18 18 -0.1
+7 2 2 -0.1
+13 14 14 -0.1
+15 20 20 -10
+13 12 12 -0.1
+11 16 16 -0.1
+18 23 23 -0.1
+2 1 1 -0.1
+8 3 3 -10
+11 10 10 -10
+2 3 3 -10
+11 12 12 -0.1
+7 6 6 -0.1
+14 13 13 -0.1
+7 8 8 -0.1
+2 7 7 -0.1
+9 4 4 -0.1
+1 2 2 -0.1
+8 7 7 -0.1
+0 1 1 -0.1
+5 6 6 -0.1
+1 6 6 -0.1
+8 9 9 -0.1
+0 5 5 -0.1
+5 0 0 -0.1
+21 20 20 -10
+5 10 10 -10
+19 18 18 -0.1
+21 22 22 -0.1
+9 8 8 -0.1
+22 17 17 -10
+1 0 0 -0.1
+7 12 12 -0.1
+19 14 14 -0.1
+17 12 12 -0.1
+10 5 5 -0.1
+4 9 9 -0.1
+14 19 19 -0.1
+23 24 24 100
+14 9 9 -0.1
+23 22 22 -0.1
+4 3 3 -10
+10 11 11 -0.1
+9 14 14 -0.1
+17 16 16 -0.1
+6 1 1 -0.1
+24 23 23 -0.1
+17 18 18 -0.1
+12 17 17 -10
+20 15 15 -0.1
+6 7 7 -0.1
+12 11 11 -0.1
+16 21 21 -0.1
+6 5 5 -0.1
+15 16 16 -0.1
+12 13 13 -0.1
+18 19 19 -0.1
+15 10 10 -10
+3 2 2 -0.1
+3 4 4 -0.1
+3 8 8 -0.1
+18 13 13 -0.1
+12 7 7 -0.1
+18 17 17 -10
+10 15 15 -0.1
+Goal state is 24 0
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 4
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 18
+I am in the steps of the episode 24 23
+I am in the steps of the episode 24 18
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 1
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 15
+I am in the steps of the episode 24 20
+I am in the steps of the episode 24 15
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 17
+I am in the steps of the episode 24 22
+I am in the steps of the episode 24 21
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 15
+I am in the steps of the episode 24 20
+I am in the steps of the episode 24 21
+I am in the steps of the episode 24 20
+I am in the steps of the episode 24 21
+I am in the steps of the episode 24 22
+I am in the steps of the episode 24 23
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 2
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 3
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 4
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 18
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 17
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 4
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 4
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 5
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 6
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 18
+I am in the steps of the episode 24 17
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 15
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 21
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 15
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 21
+I am in the steps of the episode 24 22
+I am in the steps of the episode 24 17
+I am in the steps of the episode 24 18
+I am in the steps of the episode 24 23
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 7
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 18
+I am in the steps of the episode 24 23
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 8
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 17
+I am in the steps of the episode 24 22
+I am in the steps of the episode 24 23
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 9
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 10
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 10
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 11
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 0
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 12
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 13
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 13
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 4
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 14
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 15
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 16
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 17
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 16
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 12
+I am in the steps of the episode 24 11
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 18
+acquired lock
+I am in the steps of the episode 24 1
+I am in the steps of the episode 24 2
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+Goal state is 24 19
+acquired lock
+I am in the steps of the episode 24 5
+I am in the steps of the episode 24 6
+I am in the steps of the episode 24 7
+I am in the steps of the episode 24 8
+I am in the steps of the episode 24 3
+I am in the steps of the episode 24 4
+I am in the steps of the episode 24 9
+I am in the steps of the episode 24 14
+I am in the steps of the episode 24 19
+I am in the steps of the episode 24 24
+the learning rate is 0.2
+released lock
+I am here in thread 2
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+in minesWorld::insertRewards
+13 8 8 -0.1
+22 21 21 100
+23 18 18 -0.1
+22 23 23 -0.1
+17 22 22 -0.1
+19 24 24 -0.1
+8 13 13 -0.1
+24 19 19 -0.1
+21 16 16 -0.1
+20 21 21 100
+11 6 6 -0.1
+16 11 11 -0.1
+16 17 17 -0.1
+16 15 15 -10
+6 11 11 -0.1
+13 18 18 -0.1
+7 2 2 -0.1
+13 14 14 -0.1
+15 20 20 -10
+13 12 12 -0.1
+11 16 16 -0.1
+18 23 23 -0.1
+2 1 1 -0.1
+8 3 3 -10
+11 10 10 -0.1
+2 3 3 -10
+11 12 12 -0.1
+7 6 6 -0.1
+14 13 13 -0.1
+7 8 8 -0.1
+2 7 7 -10
+9 4 4 -0.1
+1 2 2 -0.1
+8 7 7 -10
+0 1 1 -0.1
+5 6 6 -0.1
+1 6 6 -0.1
+8 9 9 -0.1
+0 5 5 -0.1
+5 0 0 -0.1
+21 20 20 -10
+5 10 10 -0.1
+19 18 18 -0.1
+21 22 22 -0.1
+9 8 8 -0.1
+22 17 17 -0.1
+1 0 0 -0.1
+7 12 12 -0.1
+19 14 14 -0.1
+17 12 12 -0.1
+10 5 5 -0.1
+4 9 9 -0.1
+14 19 19 -0.1
+23 24 24 -0.1
+14 9 9 -0.1
+23 22 22 -0.1
+4 3 3 -10
+10 11 11 -0.1
+9 14 14 -0.1
+17 16 16 -0.1
+6 1 1 -0.1
+24 23 23 -0.1
+17 18 18 -0.1
+12 17 17 -0.1
+20 15 15 -10
+6 7 7 -10
+12 11 11 -0.1
+16 21 21 100
+6 5 5 -0.1
+15 16 16 -0.1
+12 13 13 -0.1
+18 19 19 -0.1
+15 10 10 -0.1
+3 2 2 -0.1
+3 4 4 -0.1
+3 8 8 -0.1
+18 13 13 -0.1
+12 7 7 -10
+18 17 17 -0.1
+10 15 15 -10
+Goal state is 21 20
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+the learning rate is 0.2
+released lock
+Goal state is 21 21
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 22
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 23
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 24
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 25
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 26
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 15
+I am in the steps of the episode 21 16
+I am in the steps of the episode 21 15
+I am in the steps of the episode 21 20
+I am in the steps of the episode 21 15
+I am in the steps of the episode 21 20
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 27
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 28
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 29
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 30
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 31
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 32
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 33
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 34
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 35
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 36
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 37
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 38
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 39
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 40
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 41
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 42
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 43
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 44
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 45
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 46
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 47
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 48
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 49
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 4
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 50
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 51
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 52
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 53
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 54
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 55
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 56
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 57
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 58
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 59
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 16
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 60
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 61
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 62
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 63
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 64
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 65
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 66
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 67
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 68
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 69
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 70
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 71
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 72
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 73
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 74
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 8
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 75
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 76
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 77
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 78
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 79
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 80
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 81
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 82
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 83
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 0
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 84
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 2
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 85
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 16
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 86
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 87
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 88
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 89
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 90
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 91
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 7
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 92
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 93
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 94
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 95
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 9
+I am in the steps of the episode 21 14
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 96
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 24
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 97
+acquired lock
+I am in the steps of the episode 21 1
+I am in the steps of the episode 21 6
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 19
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 98
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 17
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Goal state is 21 99
+acquired lock
+I am in the steps of the episode 21 5
+I am in the steps of the episode 21 10
+I am in the steps of the episode 21 11
+I am in the steps of the episode 21 12
+I am in the steps of the episode 21 13
+I am in the steps of the episode 21 18
+I am in the steps of the episode 21 23
+I am in the steps of the episode 21 22
+I am in the steps of the episode 21 21
+the learning rate is 0.2
+released lock
+Q Value is -0.0351596
+Q Value is 88.0712
+Q Value is 3.95427
+Q Value is -0.02
+Q Value is 30.0091
+Q Value is 8.23751
+Q Value is -2.05758
+Q Value is 0.283846
+Q Value is -0.036
+Q Value is 19.9712
+Q Value is -0.0931281
+Q Value is -0.0488
+Q Value is -2
+Q Value is -2.0288
+Q Value is 0.258466
+Q Value is 8.34215
+Q Value is -0.067232
+Q Value is 0.53772
+Q Value is -3.6
+Q Value is -0.036
+Q Value is -1.6328
+Q Value is 18.9388
+Q Value is -1.59023
+Q Value is -2
+Q Value is -1.29326
+Q Value is -3.6
+Q Value is 1.70549
+Q Value is -0.0660256
+Q Value is -0.02
+Q Value is 1.38453
+Q Value is -4.23069
+Q Value is -0.02
+Q Value is -0.0992621
+Q Value is -2.016
+Q Value is -0.0999994
+Q Value is -0.0387033
+Q Value is -0.00943097
+Q Value is 2.10993
+Q Value is -0.0944776
+Q Value is -1.65779
+Q Value is -2
+Q Value is -3.09741
+Q Value is 2.09995
+Q Value is -0.036
+Q Value is 1.65019
+Q Value is 2.85934
+Q Value is -0.0994097
+Q Value is 0.478386
+Q Value is 0.458305
+Q Value is 3.30346
+Q Value is -0.05904
+Q Value is 2.2759
+Q Value is 3.24356
+Q Value is 2.82737
+Q Value is 1.71616
+Q Value is 43.1586
+Q Value is -2
+Q Value is 0.455975
+Q Value is 1.86928
+Q Value is -0.02
+Q Value is -1.50555
+Q Value is 18.0511
+Q Value is -0.02
+Q Value is -2.016
+Q Value is -2.016
+Q Value is -2.81444
+Q Value is -1.86697
+Q Value is 35.977
+Q Value is -1.5638
+Q Value is -2.04723
+Q Value is 3.76069
+Q Value is -0.02
+Q Value is -2
+Q Value is -0.05904
+Q Value is -0.05904
+Q Value is 0.0144805
+Q Value is -0.02
+Q Value is -4.63108
+Q Value is -2
+Q Value is -2.0288
+The total reward is : 98.2804

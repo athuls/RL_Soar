@@ -1,0 +1,32 @@
+Plan of action:
+Phases define the environment configuration (two phases of interest - agent from zero knowledge, and agent adapt by overcoming bias)
+Goal of learning agent to reach skill level of any agent, even optimal one. 
+To measure-
+
+1) How quickly and how well an agent would learn from zero knowldege
+2) How quickly and how well it can adapt to sudden changes in environment and discover a new strategy i.e. overcome bias towards one policy and learn new policy
+   Each environment configuration has different optimal action sequence.
+3) Record agent's average number of wins against opponent for each group of 50 episodes - in our case we could use some threshold for cumulative reward
+
+PS:Also we could compare Q values for all the states, because cumulative reward only captures the policy but not the Q values (because epsilon times we use the sub-optimal strategy)
+
+4) Have the optimal strategy pre-determined and compare traditional RL algo with it. Then compare ALeRT with it. 
+5) a) Try comparing the fixed parameter RL with the optimal strategy. 	
+   b) Try comparing the fixed parameter RL with a sub-optimal strategy. 	
+   c) Compare Alert with sub-optimal and optimal strategies
+   d) Based on above information, see which one is better against sub-optimal and optimal strategies
+
+6) Paper claims win percentage not as important as the convergence to optimum. 
+
+7) If possible have another algorithm that is really good with respect to win margin but relatively less better than Alert when it comes to convergence quality/speed.
+
+Second phase: 
+1) Alert and RL0 to M1. Combine first and second phase results to make inferences	
+
+Inference:
+Alert may not find the optimal policy but it finds a good policy that beats the opponent (?)
+
+
+Three levels of comparison: RL w/o traces, RL w/ traces, Alert
+
+Metrics: slope of initial climb, maximum limit it reaches, each episode/step learning can be quantified by per step percentage increase or closeness to optimum

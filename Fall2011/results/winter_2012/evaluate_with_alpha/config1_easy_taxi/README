@@ -1,0 +1,11 @@
+0) Change in environment configuration from : 
+2 0 24 0 24 0.1 0.9 7 5 0 3 20 24 TO 2 0 18 0 18 0.1 0.9 24 5 0 11 18 20 
+
+Agent for ALert:
+alpha max = 0.9
+alpha min = 0.05
+alpha steps = 30
+epsilon max = 0.5
+epsilon min = 0.01
+epsilon steps = 30
+constant F=0.5

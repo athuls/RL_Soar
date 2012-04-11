@@ -1,0 +1,6 @@
+single sample t-test (for every possible pair of parameter combinations to obtain the better value)
+Independent 2-sample t-test
+
+Similar to ANOVA and post-hoc
+
+Check p-value to be < alpha/(total no. of pairs)

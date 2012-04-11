@@ -1,0 +1,5 @@
+1) You would not want to keep learning in non-stationary environments, because learning would increase fluctuations in Q-values, and periods of non-optimal relative Q values.
+
+2) If uncertainty principle is true, then more precisely you know the position of Q values, the less precise is the momentum that the Q values are taking. Therefore do range based Q learning techniques work better? Because we now compromise on the position aspect, we better know the momentum aspect i.e. which direction to head in.
+
+3) Use Bonferroni correction - if you compare alert with every other fixed parameter, there is a good chance that one of fixed parameter randomly came out to be good. Also if comparing all fixed for max, max bias can happen

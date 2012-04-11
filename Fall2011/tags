@@ -1,0 +1,107 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Agent	Agent.cpp	/^	Agent::Agent(){$/;"	f	class:Agent
+BlocksWorld	Domains.cpp	/^BlocksWorld::BlocksWorld(string fileName, string initState, string goal, string lowerProb, string higherProb, int numState):MDP(fileName, initState, goal, lowerProb, higherProb, numState, 0){$/;"	f	class:BlocksWorld
+Environment	Environment.cpp	/^	Environment::Environment(){$/;"	f	class:Environment
+Episodes	Episodes.cpp	/^Episodes::Episodes(Agent *agent, Environment *environment, double discount){$/;"	f	class:Episodes
+INF	rl_taxi_array.cpp	14;"	d	file:
+INF	rl_taxi_meta.cpp	14;"	d	file:
+MDP	MDP.cpp	/^MDP::MDP(string fileName, string initState, string goal, string lowerProb, string higherProb, int stateNum, int caseNum){$/;"	f	class:MDP
+MinesWorld	Domains.cpp	/^MinesWorld::MinesWorld(string fileName, string initState, string goal, string lowerProb, string higherProb, int numStates, vector<string> args):MDP(fileName, initState, goal, lowerProb, higherProb, numStates, 1){$/;"	f	class:MinesWorld
+Q	rl_taxi_array.cpp	/^float Q[3900][7];$/;"	v
+Q	rl_taxi_meta.cpp	/^float Q[3900][7];$/;"	v
+Q_value	rl_taxi_array.cpp	/^float Q_value;	\/\/Q value for the state (key in the hash map) and the action above$/;"	m	struct:action_value	file:
+Q_value	rl_taxi_meta.cpp	/^float Q_value;	\/\/Q value for the state (key in the hash map) and the action above$/;"	m	struct:action_value	file:
+TaxiWorld	Domains.cpp	/^TaxiWorld::TaxiWorld(string fileName, string initState, string goal, string lowerProb, string higherProb, int numStates, vector<string> args):MDP(fileName, initState, goal, lowerProb, higherProb, numStates, 2){$/;"	f	class:TaxiWorld
+action	rl_taxi_array.cpp	/^int action;	\/\/action is represented as the next state (assuming deterministic environment)$/;"	m	struct:action_value	file:
+action	rl_taxi_array.cpp	/^int action;$/;"	m	struct:state_action	file:
+action	rl_taxi_meta.cpp	/^int action;	\/\/action is represented as the next state (assuming deterministic environment)$/;"	m	struct:action_value	file:
+action	rl_taxi_meta.cpp	/^int action;$/;"	m	struct:state_action	file:
+action_value	rl_taxi_array.cpp	/^struct action_value{$/;"	s	file:
+action_value	rl_taxi_meta.cpp	/^struct action_value{$/;"	s	file:
+alpha	rl_taxi_array.cpp	/^float prob_nondeterminism=0.1, alpha=0.2, epsilon=0.1;$/;"	v
+alpha	rl_taxi_meta.cpp	/^float prob_nondeterminism=0.01,alpha=0.4, epsilon=0.1, alpha_step=0.05;$/;"	v
+alpha_step	rl_taxi_meta.cpp	/^float prob_nondeterminism=0.01,alpha=0.4, epsilon=0.1, alpha_step=0.05;$/;"	v
+ave_mean	rl_taxi_meta.cpp	/^double ave_mean()$/;"	f	class:vec_wrap
+ave_v	rl_taxi_meta.cpp	/^double ave_v(int position)$/;"	f	class:vec_wrap
+check_goalstate	rl_taxi_array.cpp	/^bool check_goalstate(int state,vector<int> set_of_goals)$/;"	f
+clean	rl_taxi_meta.cpp	/^void clean()$/;"	f	class:vec_wrap
+contains	Domains.cpp	/^bool contains(string stemp,vector<string> s_vec)$/;"	f
+contains	mdp_gen.cpp	/^bool contains(string stemp,vector<string> s_vec)$/;"	f
+delimit	rl_taxi_array.cpp	/^vector <string> delimit(string l,char c)$/;"	f
+delimit	rl_taxi_meta.cpp	/^vector <string> delimit(string l,char c)$/;"	f
+epsilon	rl_taxi_array.cpp	/^float prob_nondeterminism=0.1, alpha=0.2, epsilon=0.1;$/;"	v
+epsilon	rl_taxi_meta.cpp	/^float prob_nondeterminism=0.01,alpha=0.4, epsilon=0.1, alpha_step=0.05;$/;"	v
+evaluate_policy	rl_taxi_array.cpp	/^double evaluate_policy(int i,vector<int> g)$/;"	f
+evaluate_policy	rl_taxi_meta.cpp	/^double evaluate_policy(int i,int g)$/;"	f
+getAction	Agent.cpp	/^	string Agent::getAction(string currState, double explorationRate){$/;"	f	class:Agent
+getAction	Environment.cpp	/^	void Environment::getAction(string action){$/;"	f	class:Environment
+getCurrentState	Environment.cpp	/^	string Environment::getCurrentState(){$/;"	f	class:Environment
+getEnvironmentState	Agent.cpp	/^	string Agent::getEnvironmentState(){$/;"	f	class:Agent
+getInitialState	Environment.cpp	/^	string Environment::getInitialState(){$/;"	f	class:Environment
+getNextState	Environment.cpp	/^	string Environment::getNextState(){	$/;"	f	class:Environment
+getNextStateAndReward	Environment.cpp	/^	nextStateStruct Environment::getNextStateAndReward(string agentState, string agentAction){$/;"	f	class:Environment
+getNextStates	Environment.cpp	/^	vector<nextStateStruct> Environment::getNextStates(string nextStates, boost::unordered_map<string, double, boost::hash<string>, struct eqstr> mapArg){$/;"	f	class:Environment
+getReward	Environment.cpp	/^	int Environment::getReward(){$/;"	f	class:Environment
+getRewards	Environment.cpp	/^	boost::unordered_map<string, double, boost::hash<string> , struct eqstr > Environment::getRewards(string rewards){$/;"	f	class:Environment
+get_nextstate	rl_taxi_array.cpp	/^int get_nextstate(int state,int current_index)$/;"	f
+get_nextstate	rl_taxi_meta.cpp	/^int get_nextstate(int state,int current_index)$/;"	f
+hash_value	Environment.cpp	/^	size_t hash_value(stateActionPair const& s)$/;"	f
+initialize	rl_taxi_array.cpp	/^vector<int> initialize(int &init)$/;"	f
+initialize	rl_taxi_meta.cpp	/^void initialize(int &g, int &init)$/;"	f
+initialize	test.cpp	/^string* initialize(){$/;"	f
+insertActions	mdp_gen.cpp	/^void insertActions(ofstream fileToWrite){$/;"	f
+insertActionsAndNextState	Domains.cpp	/^void TaxiWorld::insertActionsAndNextState(){$/;"	f	class:TaxiWorld
+insertActionsAndNextState	MDP.cpp	/^void MDP::insertActionsAndNextState(){$/;"	f	class:MDP
+insertRewards	Domains.cpp	/^void BlocksWorld::insertRewards(int stateNum){$/;"	f	class:BlocksWorld
+insertRewards	Domains.cpp	/^void MinesWorld::insertRewards(int stateNum){$/;"	f	class:MinesWorld
+insertRewards	Domains.cpp	/^void TaxiWorld::insertRewards(){$/;"	f	class:TaxiWorld
+insertRewards	MDP.cpp	/^void MDP::insertRewards(){$/;"	f	class:MDP
+insertRewards	MDP.cpp	/^void MDP::insertRewards(int i){$/;"	f	class:MDP
+main	Main.cpp	/^int main(int argc, char *argv[]){	$/;"	f
+main	mdp_gen.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	rl_taxi_array.cpp	/^int main()$/;"	f
+main	rl_taxi_meta.cpp	/^int main()$/;"	f
+main	test.cpp	/^int main(){$/;"	f
+main	test_vector.cpp	/^int main()$/;"	f
+max	rl_taxi_array.cpp	/^int max(float v[])$/;"	f
+max	rl_taxi_meta.cpp	/^int max(float v[])$/;"	f
+maximumQValue	Agent.cpp	/^	double Agent::maximumQValue(string nextState){$/;"	f	class:Agent
+maximumValueAction	Agent.cpp	/^	string Agent::maximumValueAction(string state){$/;"	f	class:Agent
+modify	test_vector.cpp	/^vector<int> modify()$/;"	f
+next_state	rl_taxi_array.cpp	/^int next_state[3900][7];$/;"	v
+next_state	rl_taxi_meta.cpp	/^int next_state[3900][7];$/;"	v
+num_states	rl_taxi_array.cpp	/^int num_states=0;$/;"	v
+num_states	rl_taxi_meta.cpp	/^int num_states=0;$/;"	v
+operator ()	Environment.cpp	/^	bool eqStateActionPair::operator()(stateActionPair p1, stateActionPair p2) const$/;"	f	class:eqStateActionPair
+operator ()	Environment.cpp	/^	bool eqstr::operator()(string s1, string s2) const$/;"	f	class:eqstr
+operator <	rl_taxi_array.cpp	/^friend bool operator<(state_action const& a, state_action const& b)$/;"	f	struct:state_action
+operator <	rl_taxi_meta.cpp	/^friend bool operator<(state_action const& a, state_action const& b)$/;"	f	struct:state_action
+prob_nondeterminism	rl_taxi_array.cpp	/^float prob_nondeterminism=0.1, alpha=0.2, epsilon=0.1;$/;"	v
+prob_nondeterminism	rl_taxi_meta.cpp	/^float prob_nondeterminism=0.01,alpha=0.4, epsilon=0.1, alpha_step=0.05;$/;"	v
+push	rl_taxi_meta.cpp	/^void push(double element)$/;"	f	class:vec_wrap
+readConfig	Agent.cpp	/^	void Agent::readConfig(string fileName){$/;"	f	class:Agent
+readConfig	Environment.cpp	/^	void Environment::readConfig(string fileName)$/;"	f	class:Environment
+removeBrackets	Environment.cpp	/^string removeBrackets(string word){$/;"	f
+reward	rl_taxi_array.cpp	/^float reward[3900][7];$/;"	v
+reward	rl_taxi_meta.cpp	/^float reward[3900][7];$/;"	v
+runEpisodes	Episodes.cpp	/^void Episodes::runEpisodes(double learningRate, double explorationRate){$/;"	f	class:Episodes
+selectAction	Agent.cpp	/^	string Agent::selectAction(){$/;"	f	class:Agent
+select_action	rl_taxi_array.cpp	/^int select_action(int s)$/;"	f
+select_action	rl_taxi_meta.cpp	/^int select_action(int s)$/;"	f
+split1	Environment.cpp	/^vector<string> split1(string l,char c)$/;"	f
+split_func	mdp_gen.cpp	/^vector<string> split_func(string s,char separator)$/;"	f
+state	rl_taxi_array.cpp	/^string state;$/;"	m	struct:state_action	file:
+state	rl_taxi_meta.cpp	/^string state;$/;"	m	struct:state_action	file:
+state_action	rl_taxi_array.cpp	/^struct state_action{$/;"	s	file:
+state_action	rl_taxi_meta.cpp	/^struct state_action{$/;"	s	file:
+stddev_mean	rl_taxi_meta.cpp	/^double stddev_mean()$/;"	f	class:vec_wrap
+track_hashQ	rl_taxi_array.cpp	/^int track_hashQ=0;$/;"	v
+track_hashQ	rl_taxi_meta.cpp	/^int track_hashQ=0;$/;"	v
+v	rl_taxi_meta.cpp	/^vector <vector <double> > v;$/;"	m	class:vec_wrap	file:
+vec_wrap	rl_taxi_meta.cpp	/^class vec_wrap{$/;"	c	file:
+vec_wrap	rl_taxi_meta.cpp	/^vec_wrap()$/;"	f	class:vec_wrap

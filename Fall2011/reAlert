@@ -1,0 +1,1426 @@
+I am in MDP.cpp case num0,3,7,8
+This is next state in insert rewards 1,2,3,4,8,90
+I am in insertRewards 6
+This is next state in insert rewards 0,2,4,61
+I am in insertRewards 4
+This is next state in insert rewards 0,1,3,62
+I am in insertRewards 4
+This is next state in insert rewards 0,2,7,93
+I am in insertRewards 4
+This is next state in insert rewards 0,1,5,84
+I am in insertRewards 4
+This is next state in insert rewards 4,85
+I am in insertRewards 2
+This is next state in insert rewards 1,26
+I am in insertRewards 2
+This is next state in insert rewards 3,97
+I am in insertRewards 2
+This is next state in insert rewards 5,4,9,08
+I am in insertRewards 4
+This is next state in insert rewards 0,3,7,89
+I am in insertRewards 4
+3
+3
+7
+0
+0
+6
+2
+0
+8
+9
+7
+4
+0
+4
+6
+8
+1
+3
+9
+5
+8
+0
+3
+4
+1
+2
+0
+8
+9
+9
+2
+1
+2
+4
+1
+5
+9 3 3 -0.1
+2 3 3 -0.1
+3 7 7 -0.1
+8 0 0 -0.1
+9 0 0 -0.1
+2 6 6 -0.1
+1 2 2 -0.1
+3 0 0 -0.1
+9 8 8 -0.1
+8 9 9 100
+9 7 7 -0.1
+1 4 4 -0.1
+2 0 0 -0.1
+5 4 4 -0.1
+1 6 6 -0.1
+5 8 8 -0.1
+4 1 1 -0.1
+7 3 3 -0.1
+0 9 9 100
+4 5 5 -0.1
+4 8 8 -0.1
+1 0 0 -0.1
+0 3 3 -0.1
+0 4 4 -0.1
+0 1 1 -0.1
+0 2 2 -0.1
+4 0 0 -0.1
+0 8 8 -0.1
+7 9 9 100
+3 9 9 100
+6 2 2 -0.1
+6 1 1 -0.1
+3 2 2 -0.1
+8 4 4 -0.1
+2 1 1 -0.1
+8 5 5 -0.1
+Goal state is 9 0
+acquired lock
+I am in the steps of the episode 9 8
+Alpha value is 0.871667
+I am in the steps of the episode 9 0
+Alpha value is 0.843333
+I am in the steps of the episode 9 4
+Alpha value is 0.815
+I am in the steps of the episode 9 0
+Alpha value is 0.815
+I am in the steps of the episode 9 9
+Alpha value is 0.786667
+The exploration rate is 0.483667
+released lock
+Goal state is 9 1
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.786667
+The exploration rate is 0.467333
+released lock
+Goal state is 9 2
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.786667
+The exploration rate is 0.451
+released lock
+Goal state is 9 3
+acquired lock
+I am in the steps of the episode 9 8
+Alpha value is 0.758333
+I am in the steps of the episode 9 9
+Alpha value is 0.758333
+The exploration rate is 0.434667
+released lock
+Goal state is 9 4
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.758333
+The exploration rate is 0.418333
+released lock
+Goal state is 9 5
+acquired lock
+I am in the steps of the episode 9 1
+Alpha value is 0.73
+I am in the steps of the episode 9 2
+Alpha value is 0.73
+I am in the steps of the episode 9 0
+Alpha value is 0.701667
+I am in the steps of the episode 9 2
+Alpha value is 0.673333
+I am in the steps of the episode 9 6
+Alpha value is 0.645
+I am in the steps of the episode 9 2
+Alpha value is 0.616667
+I am in the steps of the episode 9 1
+Alpha value is 0.616667
+I am in the steps of the episode 9 4
+Alpha value is 0.616667
+I am in the steps of the episode 9 1
+Alpha value is 0.616667
+I am in the steps of the episode 9 2
+Alpha value is 0.645
+I am in the steps of the episode 9 0
+Alpha value is 0.616667
+I am in the steps of the episode 9 9
+Alpha value is 0.616667
+The exploration rate is 0.402
+released lock
+Goal state is 9 6
+acquired lock
+I am in the steps of the episode 9 8
+Alpha value is 0.588333
+I am in the steps of the episode 9 9
+Alpha value is 0.588333
+The exploration rate is 0.385667
+released lock
+Goal state is 9 7
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.588333
+The exploration rate is 0.369333
+released lock
+Goal state is 9 8
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.588333
+The exploration rate is 0.353
+released lock
+Goal state is 9 9
+acquired lock
+I am in the steps of the episode 9 2
+Alpha value is 0.616667
+I am in the steps of the episode 9 3
+Alpha value is 0.588333
+I am in the steps of the episode 9 7
+Alpha value is 0.56
+I am in the steps of the episode 9 3
+Alpha value is 0.531667
+I am in the steps of the episode 9 0
+Alpha value is 0.56
+I am in the steps of the episode 9 9
+Alpha value is 0.56
+The exploration rate is 0.336667
+released lock
+Goal state is 9 10
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.56
+The exploration rate is 0.320333
+released lock
+Goal state is 9 11
+acquired lock
+I am in the steps of the episode 9 3
+Alpha value is 0.531667
+I am in the steps of the episode 9 0
+Alpha value is 0.503333
+I am in the steps of the episode 9 9
+Alpha value is 0.475
+The exploration rate is 0.304
+released lock
+Goal state is 9 12
+acquired lock
+I am in the steps of the episode 9 2
+Alpha value is 0.446667
+I am in the steps of the episode 9 6
+Alpha value is 0.418333
+I am in the steps of the episode 9 2
+Alpha value is 0.39
+I am in the steps of the episode 9 6
+Alpha value is 0.361667
+I am in the steps of the episode 9 2
+Alpha value is 0.333333
+I am in the steps of the episode 9 0
+Alpha value is 0.361667
+I am in the steps of the episode 9 9
+Alpha value is 0.333333
+The exploration rate is 0.287667
+released lock
+Goal state is 9 13
+acquired lock
+I am in the steps of the episode 9 9
+Alpha value is 0.305
+The exploration rate is 0.271333
+released lock
+Goal state is 9 14
+I am here in thread 2
+I am in MDP.cpp case num0,3,7,8
+This is next state in insert rewards 1,2,3,4,8,90
+I am in insertRewards 6
+This is next state in insert rewards 0,2,4,61
+I am in insertRewards 4
+This is next state in insert rewards 0,1,3,62
+I am in insertRewards 4
+This is next state in insert rewards 0,2,7,93
+I am in insertRewards 4
+This is next state in insert rewards 0,1,5,84
+I am in insertRewards 4
+This is next state in insert rewards 4,85
+I am in insertRewards 2
+This is next state in insert rewards 1,26
+I am in insertRewards 2
+This is next state in insert rewards 3,97
+I am in insertRewards 2
+This is next state in insert rewards 5,4,9,08
+I am in insertRewards 4
+This is next state in insert rewards 0,3,7,89
+I am in insertRewards 4
+9 3 3 -0.1
+2 3 3 -0.1
+3 7 7 100
+8 0 0 -0.1
+9 0 0 -0.1
+2 6 6 -0.1
+1 2 2 -0.1
+3 0 0 -0.1
+9 8 8 -0.1
+8 9 9 -0.1
+9 7 7 100
+1 4 4 -0.1
+2 0 0 -0.1
+5 4 4 -0.1
+1 6 6 -0.1
+5 8 8 -0.1
+4 1 1 -0.1
+7 3 3 -0.1
+0 9 9 -0.1
+4 5 5 -0.1
+4 8 8 -0.1
+1 0 0 -0.1
+0 3 3 -0.1
+0 4 4 -0.1
+0 1 1 -0.1
+0 2 2 -0.1
+4 0 0 -0.1
+0 8 8 -0.1
+7 9 9 -0.1
+3 9 9 -0.1
+6 2 2 -0.1
+6 1 1 -0.1
+3 2 2 -0.1
+8 4 4 -0.1
+2 1 1 -0.1
+8 5 5 -0.1
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.276667
+I am in the steps of the episode 7 3
+Alpha value is 0.276667
+I am in the steps of the episode 7 0
+Alpha value is 0.305
+I am in the steps of the episode 7 9
+Alpha value is 0.305
+I am in the steps of the episode 7 3
+Alpha value is 0.305
+I am in the steps of the episode 7 9
+Alpha value is 0.276667
+I am in the steps of the episode 7 3
+Alpha value is 0.248333
+I am in the steps of the episode 7 2
+Alpha value is 0.248333
+I am in the steps of the episode 7 0
+Alpha value is 0.248333
+I am in the steps of the episode 7 9
+Alpha value is 0.248333
+I am in the steps of the episode 7 3
+Alpha value is 0.248333
+I am in the steps of the episode 7 0
+Alpha value is 0.22
+I am in the steps of the episode 7 9
+Alpha value is 0.22
+I am in the steps of the episode 7 0
+Alpha value is 0.22
+I am in the steps of the episode 7 9
+Alpha value is 0.22
+I am in the steps of the episode 7 8
+Alpha value is 0.248333
+I am in the steps of the episode 7 5
+Alpha value is 0.248333
+I am in the steps of the episode 7 8
+Alpha value is 0.276667
+I am in the steps of the episode 7 5
+Alpha value is 0.248333
+I am in the steps of the episode 7 8
+Alpha value is 0.276667
+I am in the steps of the episode 7 9
+Alpha value is 0.276667
+I am in the steps of the episode 7 8
+Alpha value is 0.305
+I am in the steps of the episode 7 4
+Alpha value is 0.305
+I am in the steps of the episode 7 5
+Alpha value is 0.305
+I am in the steps of the episode 7 4
+Alpha value is 0.276667
+I am in the steps of the episode 7 0
+Alpha value is 0.248333
+I am in the steps of the episode 7 4
+Alpha value is 0.22
+I am in the steps of the episode 7 0
+Alpha value is 0.191667
+I am in the steps of the episode 7 8
+Alpha value is 0.191667
+I am in the steps of the episode 7 0
+Alpha value is 0.191667
+I am in the steps of the episode 7 8
+Alpha value is 0.191667
+I am in the steps of the episode 7 9
+Alpha value is 0.191667
+I am in the steps of the episode 7 0
+Alpha value is 0.191667
+I am in the steps of the episode 7 8
+Alpha value is 0.163333
+I am in the steps of the episode 7 4
+Alpha value is 0.163333
+I am in the steps of the episode 7 0
+Alpha value is 0.163333
+I am in the steps of the episode 7 8
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.255
+released lock
+Goal state is 7 15
+acquired lock
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 3
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 1
+Alpha value is 0.05
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 6
+Alpha value is 0.05
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 1
+Alpha value is 0.0783333
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 1
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 4
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 4
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 3
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 3
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.238667
+released lock
+Goal state is 7 16
+acquired lock
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 3
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 4
+Alpha value is 0.0783333
+I am in the steps of the episode 7 1
+Alpha value is 0.106667
+I am in the steps of the episode 7 2
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.0783333
+I am in the steps of the episode 7 1
+Alpha value is 0.106667
+I am in the steps of the episode 7 2
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 8
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.222333
+released lock
+Goal state is 7 17
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 0
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 3
+Alpha value is 0.135
+I am in the steps of the episode 7 0
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.135
+I am in the steps of the episode 7 5
+Alpha value is 0.163333
+I am in the steps of the episode 7 8
+Alpha value is 0.163333
+I am in the steps of the episode 7 4
+Alpha value is 0.163333
+I am in the steps of the episode 7 0
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 7
+Alpha value is 0.163333
+The exploration rate is 0.206
+released lock
+Goal state is 7 18
+acquired lock
+I am in the steps of the episode 7 8
+Alpha value is 0.163333
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.189667
+released lock
+Goal state is 7 19
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.173333
+released lock
+Goal state is 7 20
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.157
+released lock
+Goal state is 7 21
+acquired lock
+I am in the steps of the episode 7 1
+Alpha value is 0.163333
+I am in the steps of the episode 7 2
+Alpha value is 0.163333
+I am in the steps of the episode 7 3
+Alpha value is 0.135
+I am in the steps of the episode 7 0
+Alpha value is 0.135
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.140667
+released lock
+Goal state is 7 22
+acquired lock
+I am in the steps of the episode 7 4
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.124333
+released lock
+Goal state is 7 23
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.108
+released lock
+Goal state is 7 24
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.0916667
+released lock
+Goal state is 7 25
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.0753333
+released lock
+Goal state is 7 26
+acquired lock
+I am in the steps of the episode 7 1
+Alpha value is 0.106667
+I am in the steps of the episode 7 2
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 3
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 3
+Alpha value is 0.106667
+I am in the steps of the episode 7 2
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.059
+released lock
+Goal state is 7 27
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.0426667
+released lock
+Goal state is 7 28
+acquired lock
+I am in the steps of the episode 7 4
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.0263333
+released lock
+Goal state is 7 29
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 30
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 31
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 32
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 7 33
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 8
+Alpha value is 0.106667
+I am in the steps of the episode 7 5
+Alpha value is 0.0783333
+I am in the steps of the episode 7 8
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 34
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 35
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 7 36
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.135
+I am in the steps of the episode 7 7
+Alpha value is 0.135
+The exploration rate is 0.01
+released lock
+Goal state is 7 37
+acquired lock
+I am in the steps of the episode 7 2
+Alpha value is 0.106667
+I am in the steps of the episode 7 0
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 7 38
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 7 39
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 7 40
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 8
+Alpha value is 0.106667
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.106667
+The exploration rate is 0.01
+released lock
+Goal state is 7 41
+acquired lock
+I am in the steps of the episode 7 4
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 42
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 43
+acquired lock
+I am in the steps of the episode 7 4
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 44
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 45
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 46
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 47
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 48
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 49
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.106667
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 50
+acquired lock
+I am in the steps of the episode 7 1
+Alpha value is 0.05
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 51
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 52
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 53
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 54
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 55
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 3
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 56
+acquired lock
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 57
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 58
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 59
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 60
+acquired lock
+I am in the steps of the episode 7 2
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 61
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 62
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 63
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 64
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 65
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 66
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 67
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 68
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 8
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 69
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 70
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 71
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 72
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 73
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 74
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 75
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 76
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 77
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 78
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 79
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 80
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 81
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 82
+acquired lock
+I am in the steps of the episode 7 1
+Alpha value is 0.0783333
+I am in the steps of the episode 7 2
+Alpha value is 0.0783333
+I am in the steps of the episode 7 0
+Alpha value is 0.0783333
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 83
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 84
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 85
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 86
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.0783333
+I am in the steps of the episode 7 7
+Alpha value is 0.0783333
+The exploration rate is 0.01
+released lock
+Goal state is 7 87
+acquired lock
+I am in the steps of the episode 7 3
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 88
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 89
+acquired lock
+I am in the steps of the episode 7 4
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 90
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 91
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 92
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 93
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 94
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 95
+acquired lock
+I am in the steps of the episode 7 3
+Alpha value is 0.05
+I am in the steps of the episode 7 0
+Alpha value is 0.05
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 96
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 97
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 98
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Goal state is 7 99
+acquired lock
+I am in the steps of the episode 7 9
+Alpha value is 0.05
+I am in the steps of the episode 7 7
+Alpha value is 0.05
+The exploration rate is 0.01
+released lock
+Q Value is 8.22855
+Q Value is 9.92573
+Q Value is 4.94411
+Q Value is 3.17068
+Q Value is 4.96081
+Q Value is 2.52198
+Q Value is 10.1493
+Q Value is 14.4785
+Q Value is 9.52942
+Q Value is 18.2621
+Q Value is 97.7571
+Q Value is -0.0616667
+Q Value is 16.5663
+Q Value is 0
+Q Value is 0.839513
+Q Value is 9.45807
+Q Value is 0.367634
+Q Value is -0.056
+Q Value is 41.7745
+Q Value is 2.20718
+Q Value is 0
+Q Value is 0
+Q Value is 0
+Q Value is 0.44752
+Q Value is 1.22449
+Q Value is 11.672
+Q Value is 8.46811
+Q Value is 12.7291
+Q Value is 0
+Q Value is 0
+Q Value is 8.66881
+Q Value is 0
+Q Value is 2.6626
+Q Value is 0.265597
+Q Value is 0.723306
+Q Value is 1.67394
+The total reward is : 99.848

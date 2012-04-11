@@ -1,0 +1,17 @@
+0) Change in environment configuration from : 
+1 0 24 0.1 0.9 3 11 17 	TO 1 0 17 0.1 0.9 2 3 4 7 13 14 15 19 24
+
+alphaMax=0.9;
+alphaMin=0.05;
+alphaSteps=30;
+
+epsilonMax=0.5;
+epsilonMin=0.01;
+epsilonStep=30;
+
+NOTE : the first 1 above suggests a mines world
+and the first config file has cumulative rewards corresponding to first environment configuration and second one corresponds to changed configuration
+1) Link worth looking at - http://www.gifted.uconn.edu/siegle/research/OtherStats/SampleStats.htm , 
+			   http://afni.nimh.nih.gov/pub/dist/HOWTO/howto/ht05_group/html/background_ANOVA.shtml
+2) We have one independent variable (Algorithm parameters) with more than 2 levels (one level for every pair of learning and exploration rates), along with one dependent variable (cumulative reward, because it depends on the algorithm parameters)
+NOTE : we actually have 2 independent variables i.e. learning and exploration rates

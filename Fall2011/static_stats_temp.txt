@@ -1,0 +1,114 @@
+The average reward is : 97.8936
+The sum of squares is : 6567.02
+Number of runs is : 500
+The average reward is : 97.1032
+The sum of squares is : 14910.8
+Number of runs is : 500
+The average reward is : 98.036
+The sum of squares is : 5370.13
+Number of runs is : 500
+The average reward is : 97.3718
+The sum of squares is : 24853.5
+Number of runs is : 500
+The average reward is : 97.7781
+The sum of squares is : 12489.6
+Number of runs is : 1000
+The average reward is : 87.5635
+The sum of squares is : 46233.5
+Number of runs is : 1000
+The average reward is : 98.1193
+The sum of squares is : 11121.4
+Number of runs is : 1000
+The average reward is : 98.1067
+The sum of squares is : 16439.3
+Number of runs is : 1000
+The average reward is : 97.7265
+The sum of squares is : 15145.7
+Number of runs is : 1000
+The average reward is : 98.3521
+The sum of squares is : 13691.8
+Number of runs is : 1000
+The average reward is : 97.8723
+The sum of squares is : 12625.6
+Number of runs is : 1000
+The average reward is : 97.7941
+The sum of squares is : 29303.3
+Number of runs is : 1000
+The average reward is : 98.2079
+The sum of squares is : 10298.4
+Number of runs is : 1000
+The average reward is : 98.424
+The sum of squares is : 12426.5
+Number of runs is : 1000
+The average reward is : 99.0598
+The sum of squares is : 1393.42
+Number of runs is : 1000
+The average reward is : 97.0827
+The sum of squares is : 21575.2
+Number of runs is : 1000
+The average reward is : 99.095
+The sum of squares is : 655.435
+Number of runs is : 1000
+The average reward is : 99.067
+The sum of squares is : 4339.03
+Number of runs is : 1000
+The average reward is : 98.5049
+The sum of squares is : 8863.67
+Number of runs is : 1000
+The average reward is : 87.3358
+The sum of squares is : 29706
+Number of runs is : 1000
+The average reward is : 98.9997
+The sum of squares is : 1395.59
+Number of runs is : 1000
+The average reward is : 88.7897
+The sum of squares is : 19464.6
+Number of runs is : 1000
+The average reward is : 99.0684
+The sum of squares is : 916.601
+Number of runs is : 1000
+The average reward is : 98.4467
+The sum of squares is : 10614.1
+Number of runs is : 1000
+The average reward is : 99.031
+The sum of squares is : 1524.7
+Number of runs is : 1000
+The average reward is : 98.6143
+The sum of squares is : 9439.61
+Number of runs is : 1000
+The average reward is : 99.0481
+The sum of squares is : 805.416
+Number of runs is : 1000
+The average reward is : 98.4163
+The sum of squares is : 8843.74
+Number of runs is : 1000
+The average reward is : 97.9217
+The sum of squares is : 15570.7
+Number of runs is : 1000
+The average reward is : 98.1115
+The sum of squares is : 14785.1
+Number of runs is : 1000
+The average reward is : 99.0593
+The sum of squares is : 1131.17
+Number of runs is : 1000
+The average reward is : 98.0292
+The sum of squares is : 13954.7
+Number of runs is : 1000
+The average reward is : 98.7467
+The sum of squares is : 4675.35
+Number of runs is : 1000
+The average reward is : 88.7441
+The sum of squares is : 21695.7
+Number of runs is : 1000
+The average reward is : 98.7032
+The sum of squares is : 6184.69
+Number of runs is : 1000
+The average reward is : 97.6831
+The sum of squares is : 18117.4
+Number of runs is : 1000
+The average reward is : 98.6802
+The sum of squares is : 6169.09
+Number of runs is : 1000
+The average reward is : 98.6255
+The sum of squares is : 10316.7
+Number of runs is : 1000

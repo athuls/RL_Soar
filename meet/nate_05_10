@@ -1,0 +1,7 @@
+1) convergence properties measured wrongly
+
+
+2) fixed learning rate is bad. what about varying learning rate? is the hypothesis - we can get a better performance for certain values of epsilon with fixed alpha, as compared to different epsilon and varying alpha? 
+
+
+3) question about experiment 2 - why do we need? because we already say that varying alpha gives better performance than any fixed alpha. 

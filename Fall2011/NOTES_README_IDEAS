@@ -1,0 +1,6 @@
+Improve non-stationary learning:
+
+1) Use confusion matrix to determine if the agent is highly confused with what the next action should be
+2) Use alert type methods (see if 1 is related to 2)
+3) Run a policy such that it is the best policy for rewards seen in the previous epoch..(ftp://ftp.cs.huji.ac.il/users/jeff/aamas04weinberg.pdf)
+4) Improve alert by delaying the time by which alpha again starts decreasing in value
